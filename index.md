@@ -76,6 +76,6 @@ background-color: #CBE7A5; /* ; ; */
 
 ![stem cell niche](http://www.nature.com/nrm/journal/v15/n1/images_article/nrm3721-f1.jpg)
 
-*** pnotes
+***=pnotes
 
 The +4 'reserve' stem cells (which occupy the fourth position from the crypt base) can restore the LGR5+ CBC stem cell compartment following injury. This differentiating hierarchy is shown in the tree on the right panel. Epithelial turnover occurs every 3–5 days. New Paneth cells are supplied from the TA cells every 3–6 weeks.
