@@ -3,4 +3,4 @@ library(slidify)
 # author("Genoomiterviklikkus")
 
 setwd("~/Dropbox/Onkobioloogia/Genoomiterviklikkus/")
-publish("tpall/Genoomiterviklikkus")
+publish("Genoomiterviklikkus", "tpall")
