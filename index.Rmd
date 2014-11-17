@@ -77,9 +77,9 @@ background-color: #CBE7A5; /* ; ; */
 ---
 ## Epiteelirakkude regeneratsioon sooleepiteelis
 
-
 - Soole luumen sisaldab suures koguses toksiine ja baktereid.
 - Inimene kaotab umbes 10$^{11}$ epiteelirakku (~200 g) igapäevaselt.
+- Laborihiire soole krüptis asuvad tüvirakud jagunevad elu jooksul umbes 1000 korda ilma jagunemispotentsiaali kaotamata ja kartsinogeensed mutatsioonid on harv nähtus.
 - Sooleepiteeli regeneerivad **tüvirakud** ja **transitoorselt paljunevad rakud** (*transit-amplifying, TA*).
 - Tüvirakud moodustavad 0.1-1% koe rakkudest.
 - Epiteelkoe rakud diferentseeruvad transitoorselt paljunevatest rakkudest.
@@ -90,6 +90,7 @@ background-color: #CBE7A5; /* ; ; */
 ---&twocol
 
 ## Epiteeli struktuur minimeerib geenikahjustuste kuhjumise
+# Tüvirakkude genoom on hästi kaitstud
 
 ***=left
 
@@ -99,10 +100,104 @@ background-color: #CBE7A5; /* ; ; */
 
 ***=right
 
-![stem cell niche](http://www.nature.com/nrm/journal/v15/n1/images_article/nrm3721-f1.jpg)
+<img src="http://www.nature.com/nrm/journal/v15/n1/images_article/nrm3721-f1.jpg" style="width:460px")>
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/nrm/journal/v15/n1/full/nrm3721.html">
 Adult intestinal stem cells: critical drivers of epithelial homeostasis and regeneration
 </a>
 </footer>
+
+---
+
+## Soole mukoosa kaitseb vähi eest
+# GI vähi intsidents Muc2 hiirtel
+
+Grupp (n) | Hiiri GI vähiga |	Tuumoreid hiire kohta
+-----------|-----------------------|-----------------------
+Muc2+/+ | |
+6 kuud (6) |	0 |	0
+1 aasta (18)	| 0	| 0
+Muc2−/− | |
+6 kuud (19) | 3 (16%)	|0.32 ± 0.82
+1 aasta (19)	| 13 (68%) |1.58 ± 1.8	
+
+<footer class="source">Allikas: 
+<a href="http://www.sciencemag.org/content/295/5560/1726.full">
+Colorectal Cancer in Mice Genetically Deficient in the Mucin Muc2.
+</a>
+</footer>
+
+---
+
+## Tüvirakud on mutageneesi märklauad
+# Pikaealised rakud kontributeerivad vähi tekkesse
+
+- DMBA/TPA naha kartsinogeneesi mudeliga tekkinud papilloomid ja adenoomid pärinevad pigem vaikeolekus rakkudest (naha tüvirakud?) kui aktiivselt jagunevatest.
+    - 5-FU (*fluorouracil*) mis inhibeerib aktiivselt jagunevaid rakke ei vähendanud oluliselt papilloomide teket, [Morris et al., 1997](http://cancerres.aacrjournals.org/content/57/16/3436.full.pdf).
+- CML-i põhjustav __*Philadelphia* kromosoom__ (Ph$^1$, BRC-ABL translokatsioon) on olemas kõigis lümfoid ja müeloid raja rakkudes. 
+    - See viitab, et mutatsioon on tekkinud **pluripotentses** tüvirakus.
+
+<img src="http://www.cell.com/cms/attachment/593400/4586019/gr1.jpg" style="width:300px" >
+
+
+---
+## Tüvirakkude strateegiad
+# Sümmeetriline ja asümmeetriline jagunemine
+
+![sc](http://www.nature.com/nature/journal/v441/n7097/images/nature04956-f1.2.jpg)
+
+<footer class="source">Allikas: 
+<a href="http://www.nature.com/nature/journal/v441/n7097/full/nature04956.html">
+Asymmetric and symmetric stem-cell divisions in development and cancer.
+</a>
+</footer>
+
+***=pnotes
+
+- Asymmetric cell division: each stem cell generates one daughter stem cell and one daughter destined to differentiate. 
+- **Population strategies**. A population strategy provides dynamic control over the balance between stem cells and differentiated cells — a capacity that is necessary for repair after injury or disease. In this scheme, stem cells are defined by their 'potential' to generate both stem cells and differentiated daughters, rather than their actual production of a stem cell and a differentiated cell at each division. 
+- c, Symmetric cell division: each stem cell can divide symmetrically to generate either two daughter stem cells or two differentiated cells. 
+- d, Combination of cell divisions: each stem cell can divide either symmetrically or asymmetrically.
+
+---
+
+## DNA kahjustuste vältimise strateegiad tüvirakkudes
+
+Lisaks tüvirakkude suhteliselt vähemale paljunemisele ja nende asumisele anatoomiliselt kaitstud kohtades, toimib veel mitu teist mehhanismi:
+
+- **Apoptoos**, röntgenkiirguse poolt kahjustatud hiire soole krüpti tüvirakud lähevad kiirelt apoptoosi selle asemel et DNA kahjustusi parandada.
+- **Toksiinide aktiivne transport** rakust välja: MDR1 (*multi drug resistance 1*).
+- **Asümmeetriline replitseerunud DNA jaotumine**.
+
+---&twocol
+
+## Asümmeetriline DNA jaotumine tütarrakkude vahel
+# Raku jagunemisel peegeldub tütarrakkude saatus ka nende DNA-s.
+
+***=left
+
+![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1852587/bin/pbio.0050125.g001.jpg)
+
+***=right
+
+- Kui tüvirakud jagunevad, siis õdekromatiidid mis sisaldavad vanemat DNA ahelat (pildil roheliselt fluorestseeruv) segregeeruvad ühte tütarrakku.
+- Vanem DNA segregeerub tavaliselt vähem diferentseerunud tütarrakku.
+
+<footer class="source">Allikas: 
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1852587/">
+Richard Robinson, 2007.
+</a>
+</footer>
+
+---&twocol
+
+## Soole epiteeli tüvirakud kaitsevad genoomi matriits DNA ahela selektiivse segregatsiooni teel
+
+***=right
+
+![](http://jcs.biologists.org/content/115/11/2381/F1.large.jpg)
+
+***=left
+
+Vastavalt [Cairns' hüpoteesile](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html) jäävad matriits ahelad tüvirakust tütarrakule ja uuesti sünteesitud ahelad päranduvad transitoorselt prolifereeruvale rakule.
