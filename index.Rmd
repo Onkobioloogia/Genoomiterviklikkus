@@ -70,6 +70,10 @@ background-color: #CBE7A5; /* ; ; */
 ## Recap
 
 
+--- .segue .dark .nobackground
+
+## Tüvirakud on mutageneesi märklauad
+
 ---
 
 ## Epiteelirakkude regeneratsioon sooleepiteelis
@@ -78,4 +82,6 @@ background-color: #CBE7A5; /* ; ; */
 
 ***=pnotes
 
-The +4 'reserve' stem cells (which occupy the fourth position from the crypt base) can restore the LGR5+ CBC stem cell compartment following injury. This differentiating hierarchy is shown in the tree on the right panel. Epithelial turnover occurs every 3–5 days. New Paneth cells are supplied from the TA cells every 3–6 weeks.
+- Krüpti põhjas asuvad 5 tüvirakku on soole sisu eest kaitstud tingituna oma asukohast ja lima poolt. 
+- Tüvirakud annavad ~150 TA rakku. 
+- Need jagunevad ca iga 12 tunni tagant ja annavad 3500 enterotsüüti.
