@@ -1,4 +1,5 @@
 library(slidify)
+library(slidifyLibraries)
 # setwd("~/Dropbox/Onkobioloogia/")
 # author("Genoomiterviklikkus")
 
