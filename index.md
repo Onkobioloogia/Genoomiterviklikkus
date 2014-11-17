@@ -170,6 +170,15 @@ Lisaks tüvirakkude suhteliselt vähemale paljunemisele ja nende asumisele anato
 - **Toksiinide aktiivne transport** rakust välja: MDR1 (*multi drug resistance 1*).
 - **Asümmeetriline replitseerunud DNA jaotumine**.
 
+---
+
+## MDR
+
+- MRP confers drug resistance in SW-1573 human lung carcinoma cells [Zaman et al., 1994](http://www.pnas.org/content/91/19/8822.full.pdf).
+- MRP annab reistentsuse  doxorubicin, daunorubicin, vincristine, VP-16, colchicine,  rhodamine 123.
+
+![mdr1](http://www.rcsb.org/pdb/education_discussion/molecule_of_the_month/images/3g61_composite.jpg)
+
 ---&twocol
 
 ## Asümmeetriline DNA jaotumine tütarrakkude vahel
