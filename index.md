@@ -537,4 +537,11 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 
 
+---
+
+## DNA kahjustuste tolerans ja kartsenogenees
+
+a | Replication forks can be blocked by lesions in DNA. When a translesion DNA synthesis (TLS) polymerase (Pol; blue) is available, a lesion can be bypassed by TLS, potentially causing point mutagenesis, or template switching can mediate bypass in an error-free manner (Fig. 2). Point mutagenesis (highlighted in red) can lead to cancer formation in normal cells or to resistance to therapeutic agents in cancer cells. b | In the absence of a TLS polymerase, no translesion bypass occurs (although there will still be some template switching) and replication forks collapse, leading to double-strand breaks and chromosome instability, which increases the incidence of cancer.
+
+![dämmits](http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg)
 
