@@ -509,10 +509,18 @@ Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($
 
 ## DNA oksüdeerimine
 
-Mitokondriaalset või peroksüsomaalset päritolu hapniku radikaalid põhjustavad DNA alusteoksüdatsiooni.
+Mitokondriaalset või peroksüsomaalset päritolu hapniku radikaalid põhjustavad DNA aluste oksüdatsiooni. Tekib terve rida reaktsiooniprodukte.
 
-![oxidation](http://www.fasebj.org/content/17/10/1195/F1.large.jpg)
+<img src="http://www.fasebj.org/content/17/10/1195/F1.large.jpg" style="width:500px">
 
+<footer class="source">Pilt: 
+<a href="http://www.fasebj.org/content/17/10/1195.full">
+DNA base products of interaction with reactive oxygen and free radical species.
+</a>
+</footer>
+
+
+---
 
 ## Eksogeensed mutageenid
 
