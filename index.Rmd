@@ -507,6 +507,13 @@ Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($
 
 ---
 
+## DNA oksüdeerimine
+
+Mitokondriaalset või peroksüsomaalset päritolu hapniku radikaalid põhjustavad DNA alusteoksüdatsiooni.
+
+![oxidation](http://www.fasebj.org/content/17/10/1195/F1.large.jpg)
+
+
 ## Eksogeensed mutageenid
 
 
