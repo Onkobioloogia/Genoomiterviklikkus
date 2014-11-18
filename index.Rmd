@@ -519,6 +519,17 @@ DNA base products of interaction with reactive oxygen and free radical species.
 </a>
 </footer>
 
+---
+
+## DNA oksüdatsioon on seotud aeroobse metabolismiga
+
+<img src="assets/img/oxidation.png" style="width:400px">
+
+<footer class="source">Pilt: 
+<a href="http://www.pnas.org/content/85/8/2706.long">
+Oxidative damage to DNA: Relation to species metabolic rate and life span.
+</a>
+</footer>
 
 ---
 
