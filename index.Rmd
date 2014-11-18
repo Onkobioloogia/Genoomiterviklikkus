@@ -164,7 +164,7 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 
 ## DNA kahjustuste vältimise strateegiad tüvirakkudes
 
-Lisaks tüvirakkude suhteliselt vähemale paljunemisele ja nende asumisele anatoomiliselt kaitstud kohtades, toimib veel mitu teist mehhanismi:
+Lisaks tüvirakkude suhteliselt **aeglasemale jagunemisele** ja nende **asumisele anatoomiliselt kaitstud kohtades**, toimib veel mitu teist mehhanismi:
 
 - **Apoptoos**, röntgenkiirguse poolt kahjustatud hiire soole krüpti tüvirakud lähevad kiirelt apoptoosi selle asemel et DNA kahjustusi parandada.
 - **Toksiinide aktiivne transport** rakust välja: MDR1 (*multi drug resistance 1*).
@@ -172,11 +172,15 @@ Lisaks tüvirakkude suhteliselt vähemale paljunemisele ja nende asumisele anato
 
 ---&twocol
 
-## *Multi drug resistance*
+## *Multi drug resistance* perekonna valgud
+# Raku toksiinipumbad
 
 ***=left
 
-- **MRP** geeni transfektsioon SW-1573 inimese kopsu kartsinoomi rakkudesse muutis need rakud mitmetele kemoterapeutikumidele resistentseks [Zaman et al., 1994](http://www.pnas.org/content/91/19/8822.full.pdf).
+- **MRP** (*MDR associated protein*) geeni transfektsioon SW-1573 inimese kopsu kartsinoomi rakkudesse muutis need rakud ravimiresistentseks.
+- **ABC transporterid** on raku plasmamembraani ATP sõltuvad transpordivalgud, mis liigutavad rakust välja väga erinevaid substraate sh. toksiine.
+
+***=right
 
 Drug | Relative resistance
 -----|--------------------
@@ -184,18 +188,29 @@ Doxorubicin | 2.7 ± 0.4
 Daunorubicin | 3.2 ± 0.8
 Vincristine | 5.3 ± 1.3
 VP-16 | 4.9 ± 1.1
-m-AMSA | 1.1 ± 0.1
 Colchicine | 3.6 ± 0.1
 Rhodamine | 123 4.1 ± 0.3
 Taxol | 1.0 ± 0.1
 
-***=right
+<footer class="source">Allikas:
+<a href="http://www.pnas.org/content/91/19/8822.full.pdf">
+Zaman et al., 1994. 
+</a>
+</footer>
+
+---
+
+## P-glükovalgu struktuur
+# *P-glycoprotein/MDR1*
 
 <img src="http://www.rcsb.org/pdb/education_discussion/molecule_of_the_month/images/3g61_composite.jpg" style="width:400px">
 
 <footer class="source">Pilt: 
 <a href="http://www.rcsb.org/pdb/101/motm.do?momID=123">
-P-glycoprotein.
+P-glycoprotein. 
+</a> Wikipedia: 
+<a href="http://en.wikipedia.org/wiki/P-glycoprotein">
+P-gp wiki.
 </a>
 </footer>
 
