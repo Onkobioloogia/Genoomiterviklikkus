@@ -438,9 +438,22 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 
 ## MMR ja mikrosatelliitide ebastabiilsus
 
+Mononukleotiidsed kordusjärjestused ehk **mikrosatelliidid** on eriti avatud replikatsioonivigadele mis on tingitud *mismatch repair* funktsiooni kadumise tõttu.
+
+![mmr](http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409#">
+DNA Replication and Causes of Mutation.
+</a>
+</footer>
+
+---&twocol
+
+## Mikrosatelliitide ebastabiilsus soolevähis
+
 ***=right
 
-- Mononukleotiidsed kordusjärjestused ehk **mikrosatelliidid** on eriti avatud replikatsioonivigadele mis on tingitud *mismatch repair* funktsiooni kadumise tõttu.
 -  Vähi DNA milles esineb selline **mikrosatelliitide ebastabiilsus** võib klassifitseerida kas 
     - **_MSI-H(igh)_** >30% mikrosatellitide markereist on muutunud,
     - **_MSI-L(ow)_** <30% mikrosatellitide markereist on muutunud.
@@ -448,7 +461,7 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 
 ***=left
 
-MSI ebastabiilsus patsiendil kellel on nii soolevähk (C) kui rinnavähk (B). MSI pilt näitab, et rinnavähk sellel patsiendil ei pärine soolevähist ja on tekkinud sõltumatult. 
+MSI ebastabiilsus patsiendil kellel on nii soolevähk (C) kui rinnavähk (B).
 
 <img src="http://cancerres.aacrjournals.org/content/62/4/1014/F1.medium.gif" style="height:300px">
 
@@ -462,6 +475,35 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 
 ## Endogeensed biokeemilised protsessid
 
+Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($~10^{-7}M$) vesinik ja hüdroksüül ioone, mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**.
+
+---
+
+## Depurinatsioon
+
+- **Depurinatsioon** on spontaanne adeniini või guaniini eraldumine deoksüriboosist.
+- Imetajarakus toimub umbes 10000 depurinatsiooni päevas (seega, terves inimese kehas kehas kaotab $10^{17}$ nukleotiidi iga päev oma puriini!).
+- **Depürimideerumine** toimub kuni 100 korda väiksema sagedusega (500 päevas).
+- Stabiilselt on inimese rakus genoomi kohta 4000-15000 alusevaba nukleotiidi.
+
+![puristamine](http://o.quizlet.com/0Zsi0iTSRfx1g7hVmFp.xQ.jpg)
+
+---&twocol
+
+## Deaminatsioon
+
+- **Deaminatsiooni** tõttu kaotavad tsütosiin, adeniin või guaniin oma amiinrühma.
+
+***=right
+
+- Uratsiili võib järgmise replikatsiooni ajal lugeda kui tümiini põhjustades C>T mutatsiooni.
+- Deamineeritud nukleotiidid reeglina parandatakse reparatsiooniensüümide poolt.
+- 5-Metüültsütosiini deamineerimise tagajärjel tekib täiesti normaalne tümiin ja T:G paardumine võib reparatsioonile "nähtamatuks" jääda põhjustades C>T punktmutatsiooni. 
+
+
+***=left
+
+<img src="assets/img/Deamination of Bases.JPG" style="width:400px">
 
 ---
 
