@@ -170,14 +170,35 @@ Lisaks tüvirakkude suhteliselt vähemale paljunemisele ja nende asumisele anato
 - **Toksiinide aktiivne transport** rakust välja: MDR1 (*multi drug resistance 1*).
 - **Asümmeetriline replitseerunud DNA jaotumine**.
 
----
+---&twocol
 
 ## MDR
 
-- MRP confers drug resistance in SW-1573 human lung carcinoma cells [Zaman et al., 1994](http://www.pnas.org/content/91/19/8822.full.pdf).
-- MRP annab reistentsuse  doxorubicin, daunorubicin, vincristine, VP-16, colchicine,  rhodamine 123.
+***=left
 
-![mdr1](http://www.rcsb.org/pdb/education_discussion/molecule_of_the_month/images/3g61_composite.jpg)
+- MRP confers drug resistance in SW-1573 human lung carcinoma cells [Zaman et al., 1994](http://www.pnas.org/content/91/19/8822.full.pdf).
+
+Drug | Relative resistance
+-----|--------------------
+Doxorubicin | 2.7 ± 0.4
+Daunorubicin | 3.2 ± 0.8
+Vincristine | 5.3 ± 1.3
+VP-16 | 4.9 ± 1.1
+m-AMSA | 1.1 ± 0.1
+Colchicine | 3.6 ± 0.1
+Rhodamine | 123 4.1 ± 0.3
+Taxol | 1.0 ± 0.1
+
+***=right
+
+<img src="http://www.rcsb.org/pdb/education_discussion/molecule_of_the_month/images/3g61_composite.jpg" style="width:400px">
+
+<footer class="source">Pilt: 
+<a href="http://www.rcsb.org/pdb/101/motm.do?momID=123">
+P-glycoprotein.
+</a>
+</footer>
+
 
 ---&twocol
 
@@ -210,3 +231,4 @@ Richard Robinson, 2007.
 ***=left
 
 Vastavalt [Cairns' hüpoteesile](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html) jäävad matriits ahelad tüvirakust tütarrakule ja uuesti sünteesitud ahelad päranduvad transitoorselt prolifereeruvale rakule.
+
