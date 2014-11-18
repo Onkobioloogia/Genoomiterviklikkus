@@ -353,12 +353,42 @@ Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
 ---
 
 ## DNA replikatsiooni vead
-# Imetajate genoomis on 15 DNA polümeraasi. Mõned funktsioneerivad genoomi replikatsioonil, kuid enamus toimivad DNA kahjustuste parandamisel.
+# Imetajate genoomis on 15 DNA polümeraasi. Mõned funktsioneerivad genoomi replikatsioonil, kuid enamus toimivad DNA kahjustuste parandamisel
 
 - DNA replikatsiooni viivad läbi DNA Pol $\alpha$, Pol $\delta$ ja Pol $\epsilon$.
-- DNA polümeraasid lülitavad vigase nukleotiidi DNA-sse sagedusega 1/100000 aluspaari kohta ($10{-5}$).
+- DNA polümeraasid lülitavad vigase nukleotiidi DNA-sse sagedusega 1/100000 aluspaari kohta ($10^{-5}$).
 - Inimese genoomi replitseerimisel teeb see diploidses rakus oleva $6\times10^{9}$ aluspaari kohta  60000 mutatsiooni.
-- Kui DNA Pol ($\alpha$, $\delta$, $\epsilon$) lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3′–5′ eksonukleaasse aktiivsuse abil.
+
+---
+
+## Proofreading ja mismatch repair
+
+- Kui DNA Pol ($\alpha$, $\delta$, $\epsilon$) lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3'-5' eksonukleaasse aktiivsuse abil (**proofreading**)
+- Proofreading põhineb, sellel et polümeraas tunneb järgmise nukleotiidi lülitamisel ära "vales" asendis 3' OH rühma ja jääb kinni.
+- Proofreadingu tasemel eemaldatakse 99% vigu, sellest läbi lipsanud vead parandab **mismatch repair** mehhanism.
+- Koos proofreadingu ja MMR mehhanismiga on totaalne vigade sagedus replikatsioonil $10^{-9}$.
+
+---&twocol
+
+## The proofreading is crucial for preventing mutations
+
+***=left
+
+- Pold1 või Pole katalüütilise subühiku eksonukleaasse aktiivsuse mutantsetel hiirtel on 10 korda kõrgem mutatsioonisagedus ja neil tekivad spontaansed kasvajad.
+- $Pold1^{exo/exo}$ hiired surevad 8 kuu vanustena erinevate kasvajate tagajärjel.
+- $Pole^{exo/exo}$ surevad enneaegselt soole adenoomide ja adenokartsinoomide tõttu.
+- $Pole^{exo/exo}$;$Pold1^{exo/exo}$ kaksik-mutantsed hiired surevad veelgi kiiremini tüümuse lümfoomide kätte.
+- Mlh1 (*MutL homologue*) - MMR valk
+
+***=right
+
+![](http://www.pnas.org/content/106/40/17101/F1.medium.gif)
+
+<footer class="source">Pilt: 
+<a href="http://www.pnas.org/content/106/40/17101.full">
+Albertson et al., 2009.
+</a>
+</footer>
 
 ---
 
