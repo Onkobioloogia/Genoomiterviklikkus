@@ -89,7 +89,7 @@ background-color: #CBE7A5; /* ; ; */
 
 ---&twocol
 
-## Epiteeli struktuur minimeerib geenikahjustuste kuhjumise
+## Epiteeli struktuur minimeerib geenikahjustusi
 # Tüvirakkude genoom on hästi kaitstud
 
 ***=left
@@ -108,23 +108,34 @@ Adult intestinal stem cells: critical drivers of epithelial homeostasis and rege
 </a>
 </footer>
 
----
+---&twocol
 
 ## Soole mukoosa kaitseb vähi eest
 # GI vähi intsidents Muc2 hiirtel
 
-Grupp (n) | Hiiri GI vähiga |	Tuumoreid hiire kohta
------------|-----------------------|-----------------------
-Muc2+/+ | |
-6 kuud (6) |	0 |	0
-1 aasta (18)	| 0	| 0
+***=right
+
+Grupp (n) | Hiiri GI vähiga 
+-----------|-----------------------
+Muc2+/+ | 
+6 kuud (6) |	0 
+1 aasta (18)	| 0	
 Muc2−/− | |
-6 kuud (19) | 3 (16%)	|0.32 ± 0.82
-1 aasta (19)	| 13 (68%) |1.58 ± 1.8	
+6 kuud (19) | 3 (16%)
+1 aasta (19)	| 13 (68%)
+
+***=left
+
+<img src="http://www.gastrojournal.org/cms/attachment/2011260790/2033728947/gr5.jpg" style="width:350px">
+
 
 <footer class="source">Allikas: 
 <a href="http://www.sciencemag.org/content/295/5560/1726.full">
 Colorectal Cancer in Mice Genetically Deficient in the Mucin Muc2.
+</a>
+Pilt:
+<a href="http://www.gastrojournal.org/article/S0016-5085(06)00762-1/fulltext">
+Van der Sluis et al., 2006.
 </a>
 </footer>
 
@@ -216,27 +227,40 @@ P-gp wiki.
 
 ***=pnotes
 
+
 ## P-glycoprotein
 
-- March 2010 Molecule of the Month by David Goodsell
-- doi: 10.2210/rcsb_pdb/mom_2010_3 (PDF Version, ePub Version  )
-- Keywords: multidrug resistance, cancer chemotherapy, P-glycoprotein, membrane transport
+<p style="font-size:small" >
+March 2010 Molecule of the Month by David Goodsell.
+
+doi: 10.2210/rcsb_pdb/mom_2010_3.
+
+Keywords: multidrug resistance, cancer chemotherapy, P-glycoprotein, membrane transport.
+</p>
 
 # Introduction
 
+<p style="font-size:small" >
 Our environment is filled with toxic substances that attack our molecular machinery. Our cells protect themselves from these dangers in many ways. In some cases, they use enzymes to convert them into harmless compounds. In other cases, they sequester them safely out of the way. For others, cells build specialized pumps that find toxins and eject them outside, for safe disposal.
+</p>
 
 # Clean Sweep
 
-P-glycoprotein, shown here from PDB entry [3g61](http://www.rcsb.org/pdb/explore/explore.do?structureId=3g61), is the most common molecular pump protecting our cells from toxic molecules. It sits in the cell membrane and searches for foreign hydrophobic molecules. When it finds one, it grabs the molecule in a pocket deep within the protein, and then flips to a new conformation. The new conformation has an opening towards the outside of the cell, and the molecule is ejected. The whole process is powered by ATP to ensure that everything happens in a timely manner.
+<p style="font-size:small" >
+P-glycoprotein is the most common molecular pump protecting our cells from toxic molecules. It sits in the cell membrane and searches for foreign hydrophobic molecules. When it finds one, it grabs the molecule in a pocket deep within the protein, and then flips to a new conformation. The new conformation has an opening towards the outside of the cell, and the molecule is ejected. The whole process is powered by ATP to ensure that everything happens in a timely manner.
+</p>
 
 # Powerful Pump
 
-Of course, to be effective in its job, P-glycoprotein needs to be able to eject many different types of molecules. Scientists have found the P-glycoprotein pumps hundreds of different molecules, ranging is size from tens to hundreds of atoms. Most are hydrophobic and are normally found in the membrane. These include many toxic molecules, but also important drugs like cyclosporin and anticancer drugs. Thus, the action of P-glycoprotein can be both beneficial and harmful, protecting us from toxins but also reducing the effectiveness of the therapeutic drugs we take. The role of P-glycoprotein in cancer chemotherapy is described on the next page.
+<p style="font-size:small" >
+Of course, to be effective in its job, P-glycoprotein needs to be able to eject many different types of molecules. Scientists have found the P-glycoprotein pumps hundreds of different molecules, ranging is size from tens to hundreds of atoms. Most are hydrophobic and are normally found in the membrane. These include many toxic molecules, but also important drugs like cyclosporin and anticancer drugs. Thus, the action of P-glycoprotein can be both beneficial and harmful, protecting us from toxins but also reducing the effectiveness of the therapeutic drugs we take.
+</p>
 
 # Blocking the Pump
 
-Cancer cells in metastatic cancers are often particularly difficult to treat because they have become resistant to many different anticancer drugs. In some cases, these cells gain their multidrug resistance by building extra P-glycoprotein, which continually ejects the anticancer drugs out of the cancer cells. Researchers are working hard to find ways to block P-glycoprotein in cancer cells, to make them susceptible to treatment. One way is to use antibodies such as the ones shown here from PDB entry [1bln](http://www.rcsb.org/pdb/explore/explore.do?structureId=1bln). They bind to small regions on P-glycoprotein (shown in green) and block the motions needed for pumping. Another approach is to find drugs that lodge in the active site of the protein, blocking its action from the inside.
+<p style="font-size:small" >
+Cancer cells in metastatic cancers are often particularly difficult to treat because they have become resistant to many different anticancer drugs. In some cases, these cells gain their multidrug resistance by building extra P-glycoprotein, which continually ejects the anticancer drugs out of the cancer cells. Therapeutic antibodies bind to small regions on P-glycoprotein and block the motions needed for pumping. Another approach is to find drugs that lodge in the active site of the protein, blocking its action from the inside.
+</p>
 
 ---&twocol
 
@@ -260,7 +284,8 @@ Richard Robinson, 2007.
 
 ---&twocol
 
-## Soole epiteeli tüvirakud kaitsevad genoomi matriits DNA ahela selektiivse segregatsiooni teel
+## Matriits DNA selektiivne segregatsioon
+# Konserveerunud DNA ahel jääb tüviraku kompartementi
 
 ***=right
 
@@ -268,5 +293,82 @@ Richard Robinson, 2007.
 
 ***=left
 
-Vastavalt [Cairns' hüpoteesile](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html) jäävad matriits ahelad tüvirakust tütarrakule ja uuesti sünteesitud ahelad päranduvad transitoorselt prolifereeruvale rakule.
+- DNA ahelad mida replikatsiooni käigus ei sünteesitud on nn. "konserveerunud" matriits ahelad.
+- Värskelt sünteesitud DNA on "mitte-konserveerunud".
+- [Cairnsi hüpotees, 1975](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html): replitseerunud tüviraku matriits DNA segregeerub tüvirakust tütarrakule ja uuesti sünteesitud ahelat sisaldav DNA pärandub transitoorselt prolifereeruvale tütarrakule.
+
+---
+
+## Tüviraku nišš ei jagune intensiivselt
+# Somaatilised tüvirakud ei märgistu hästi DNA-sse lülituvate ühenditega, välja arvatud tekkimisel ja koe kahjustuste korral.
+
+- Somaatilised tüvirakud säilitavad oma tekkimisel DNA-sse lülitatud märgise (3H-tümidiin) väga pika-aegselt.
+- Lühiajaline kudede inkubeerimine 3H-tümidiiniga märgistab ainult transitoorselt jagunevad rakud ning koe uuenedes märgis kaob ruttu.
+- Hiirtel puberteedis rinnanäärme tüvirakkude nišši moodustumisel sisse viidud 3H-tümidiin jääb aga sinna pidama sest tüvirakud jagunevad veel sümmeetriliselt (tekib kaks tüvirakku).
+
+![lrcmod](assets/img/LRCmod.jpg.png)
+
+<footer class="source">Pilt: 
+<a href="http://dev.biologists.org/content/132/4/681.long">
+Smith, 2005.
+</a>
+</footer>
+
+---
+
+## Konserveerunud DNA-d sisaldavad rakud karvanääpsus
+
+_**Label-retaining cells**_ eksperimentaalselt defineeritud rakupopulatsioon,  mis säilitavad DNA-sse lülitatud märgise (nt. BrdU) ja mis peaksid olema aeglaselt jagunevad tüvirakud.
+
+<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/bin/nihms264176f2.jpg" style="width:300px">
+
+<footer class="source">Pilt: 
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/">
+Hsu et al., 2011.
+</a>
+</footer>
+
+---
+
+## Mutantsete tüvirakkude teke läbi tsütotoksilisuse
+# Krooniline koekahjustumine võib istutada mutantse DNA tüviraku nišši
+
+- Kartsinogeenid võivad toimida läbi koekahjustuse, kui kahjustada saavad ka tüvirakud.
+- Tüviraku sümmeetriline jagunemine võib põhjustada viimases S-faasis sünteesitud mutantse DNA jäämise tüviraku nišši.
+- Selline mutantne DNA omandab siis nn "surematu" staatuse.
+- Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
+- Hüpoteetiline? **super kartsinogeen** oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne.
+
+---
+
+## Biokeemilised DNA reparatsioonimehhanismid
+
+Lisaks raku ja koe tasemel toimivatele mehhanismidele, mis peaksid minimeerima muteerunud somaatilise DNA säilimise ja pärandumise ekisteerivad loomulikult ka biokeemilised DNA reparatsioonimehhanismid.
+
+Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
+- **replikatsioonivead** mis tekivad DNA sünteesil (vale nukleotiidi lülitamine ahelase),
+- **nukleotiidide spontaansed biokeemilised muutused** (depurineerumine ja depürimidineerumine, deamineerumine),
+- **mutageensete ühendite poolt põhjustatud nukleotiidide muutused** (kiirgus, alkülatsioon).
+
+---
+
+## DNA replikatsiooni vead
+# Imetajate genoomis on 15 DNA polümeraasi. Mõned funktsioneerivad genoomi replikatsioonil, kuid enamus toimivad DNA kahjustuste parandamisel.
+
+- DNA replikatsiooni viivad läbi DNA Pol $\alpha$, Pol $\delta$ ja Pol $\epsilon$.
+- DNA polümeraasid lülitavad vigase nukleotiidi DNA-sse sagedusega 1/100000 aluspaari kohta ($10{-5}$).
+- Inimese genoomi replitseerimisel teeb see diploidses rakus oleva $6\times10^{9}$ aluspaari kohta  60000 mutatsiooni.
+- Kui DNA Pol ($\alpha$, $\delta$, $\epsilon$) lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3′–5′ eksonukleaasse aktiivsuse abil.
+
+---
+
+## Endogeensed biokeemilised protsessid
+
+
+---
+
+## Eksogeensed mutageenid
+
+
+
 
