@@ -201,27 +201,25 @@ P-glycoprotein.
 
 ***=pnotes
 
-P-glycoprotein
+## P-glycoprotein
 
-March 2010 Molecule of the Month by David Goodsell
+- March 2010 Molecule of the Month by David Goodsell
+- doi: 10.2210/rcsb_pdb/mom_2010_3 (PDF Version, ePub Version  )
+- Keywords: multidrug resistance, cancer chemotherapy, P-glycoprotein, membrane transport
 
-doi: 10.2210/rcsb_pdb/mom_2010_3 (PDF Version, ePub Version  )
-
-Keywords: multidrug resistance, cancer chemotherapy, P-glycoprotein, membrane transport
-
-**Introduction**
+# Introduction
 
 Our environment is filled with toxic substances that attack our molecular machinery. Our cells protect themselves from these dangers in many ways. In some cases, they use enzymes to convert them into harmless compounds. In other cases, they sequester them safely out of the way. For others, cells build specialized pumps that find toxins and eject them outside, for safe disposal.
 
-**Clean Sweep**
+# Clean Sweep
 
 P-glycoprotein, shown here from PDB entry [3g61](http://www.rcsb.org/pdb/explore/explore.do?structureId=3g61), is the most common molecular pump protecting our cells from toxic molecules. It sits in the cell membrane and searches for foreign hydrophobic molecules. When it finds one, it grabs the molecule in a pocket deep within the protein, and then flips to a new conformation. The new conformation has an opening towards the outside of the cell, and the molecule is ejected. The whole process is powered by ATP to ensure that everything happens in a timely manner.
 
-**Powerful Pump**
+# Powerful Pump
 
 Of course, to be effective in its job, P-glycoprotein needs to be able to eject many different types of molecules. Scientists have found the P-glycoprotein pumps hundreds of different molecules, ranging is size from tens to hundreds of atoms. Most are hydrophobic and are normally found in the membrane. These include many toxic molecules, but also important drugs like cyclosporin and anticancer drugs. Thus, the action of P-glycoprotein can be both beneficial and harmful, protecting us from toxins but also reducing the effectiveness of the therapeutic drugs we take. The role of P-glycoprotein in cancer chemotherapy is described on the next page.
 
-**Blocking the Pump**
+# Blocking the Pump
 
 Cancer cells in metastatic cancers are often particularly difficult to treat because they have become resistant to many different anticancer drugs. In some cases, these cells gain their multidrug resistance by building extra P-glycoprotein, which continually ejects the anticancer drugs out of the cancer cells. Researchers are working hard to find ways to block P-glycoprotein in cancer cells, to make them susceptible to treatment. One way is to use antibodies such as the ones shown here from PDB entry [1bln](http://www.rcsb.org/pdb/explore/explore.do?structureId=1bln). They bind to small regions on P-glycoprotein (shown in green) and block the motions needed for pumping. Another approach is to find drugs that lodge in the active site of the protein, blocking its action from the inside.
 
