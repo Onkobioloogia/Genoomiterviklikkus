@@ -361,6 +361,17 @@ Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
 
 ---
 
+## Hüpotees
+
+<div style="
+background-color:lightgrey">
+<q>
+Ilma genoomi korrashoiu mehhanismide lõhkumiseta oleks spontaanne raku mutatsioonisagedus liiga madal, et akumuleeruksid tumorigeneesiks vajalikud mutatsioonid.
+</q>
+</div>
+
+---
+
 ## Proofreading ja mismatch repair
 
 - Kui DNA Pol ($\alpha$, $\delta$, $\epsilon$) lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3'-5' eksonukleaasse aktiivsuse abil (**proofreading**)
@@ -409,7 +420,7 @@ Albertson et al., 2009.
 
 ***=right
 
-Pärmi *S. pombe* mudelis tõstis inimese POLD1 S478N mutatsiooni analoog tugevalt mutatsioonisagedust.
+**Pärmi *S. pombe* mudelis tõstis inimese POLD1 S478N mutatsiooni analoog tugevalt mutatsioonisagedust**.
 
 Muutus |  Mutatsioonisagedus ($\times10^{9}$)| Tõus	(mutant/wild type)
 -------|-------------------------------------|-------------------------
@@ -420,6 +431,30 @@ Wild type	| 6.0 (4.2)	| 1
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/ng/journal/v45/n2/full/ng.2503.html">
 Germline mutations affecting the proofreading domains of POLE and POLD1 predispose to colorectal adenomas and carcinomas.
+</a>
+</footer>
+
+---&twocol
+
+## MMR ja mikrosatelliitide ebastabiilsus
+
+***=right
+
+- Mononukleotiidsed kordusjärjestused ehk **mikrosatelliidid** on eriti avatud replikatsioonivigadele mis on tingitud *mismatch repair* funktsiooni kadumise tõttu.
+-  Vähi DNA milles esineb selline **mikrosatelliitide ebastabiilsus** võib klassifitseerida kas 
+    - **_MSI-H(igh)_** >30% mikrosatellitide markereist on muutunud,
+    - **_MSI-L(ow)_** <30% mikrosatellitide markereist on muutunud.
+- MSI-H esineb >80% mittepolüposse päriliku soolevähi patsientidel ja 100% patsientidel kellel on pärilikud ja hMSH2 või hMLH1 mutatsioonid.
+
+***=left
+
+MSI ebastabiilsus patsiendil kellel on nii soolevähk (C) kui rinnavähk (B). MSI pilt näitab, et rinnavähk sellel patsiendil ei pärine soolevähist ja on tekkinud sõltumatult. 
+
+![msi](http://cancerres.aacrjournals.org/content/62/4/1014/F1.medium.gif)
+
+<footer class="source">Pilt: 
+<a href="http://cancerres.aacrjournals.org/content/62/4/1014.full">
+Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Colorectal Cancer.
 </a>
 </footer>
 
