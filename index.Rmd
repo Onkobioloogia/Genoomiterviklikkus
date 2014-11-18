@@ -368,6 +368,14 @@ Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
 - Proofreadingu tasemel eemaldatakse 99% vigu, sellest läbi lipsanud vead parandab **mismatch repair** mehhanism.
 - Koos proofreadingu ja MMR mehhanismiga on totaalne vigade sagedus replikatsioonil $10^{-9}$.
 
+<img src="http://www.nature.com/ng/journal/v45/n2/images/ng.2540-F1.jpg" style="width:300px" >
+
+<footer class="source">Pilt: 
+<a href="http://www.nature.com/ng/journal/v45/n2/full/ng.2540.html">
+Seshagiri, 2013.
+</a>
+</footer>
+
 ---&twocol
 
 ## The proofreading is crucial for preventing mutations
@@ -387,6 +395,32 @@ Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
 <footer class="source">Pilt: 
 <a href="http://www.pnas.org/content/106/40/17101.full">
 Albertson et al., 2009.
+</a>
+</footer>
+
+---&twocol
+## Pärilikud POLE and POLD1 mutatsioonid inimese soolevähis
+
+***=left
+
+- Heterosügootsed pärilikud POLE või POLD1 geenivariandid esinesid mitmetes multi-adenoomi ja või CRC patsientidel kuid mitte tervetel isikutel.
+- Geenivariantidel POLE p.L424V ja POLD1 p.S478N on kõrge penetrantsus.
+- POLD1 mutatsioonid tõstsid ka endomeetriumivähi riski.
+- POLE p.L424V ja POLD1 p.S478N mutatsioonid asuvad DNA polümeraaside ε ja δ proofreading eksonukleaassetes domäänides, vastavalt.
+
+***=right
+
+Pärmi *S. pombe* mudelis tõstis inimese POLD1 S478N mutatsiooni analoog tugevalt mutatsioonisagedust.
+
+Muutus |  Mutatsioonisagedus ($\times10^{9}$)| Tõus	(mutant/wild type)
+-------|-------------------------------------|-------------------------
+C462N | 72 (9.6) | 12
+C462S	| 4.2 (2.1)	| 0.7
+Wild type	| 6.0 (4.2)	| 1
+
+<footer class="source">Pilt: 
+<a href="http://www.nature.com/ng/journal/v45/n2/full/ng.2503.html">
+Germline mutations affecting the proofreading domains of POLE and POLD1 predispose to colorectal adenomas and carcinomas.
 </a>
 </footer>
 
