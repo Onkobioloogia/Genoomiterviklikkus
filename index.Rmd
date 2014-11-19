@@ -770,3 +770,9 @@ Melano-phagolysosomes are organized into supranuclear "caps" within keratinocyte
 ***=left
 - Glutatiooni konjugeerimine takistab tsütotoksilistel ainetel reageerida raku makromolekulidega/märklaudadega. 
 <img src="http://www.nature.com/onc/journal/v22/n47/images/1206940f1.gif" style="width:400px">
+
+<footer class="source">Pilt: 
+<a href="http://www.nature.com/onc/journal/v22/n47/full/1206940a.html">
+The role of glutathione-S-transferase in anti-cancer drug resistance.
+</a>
+</footer>
