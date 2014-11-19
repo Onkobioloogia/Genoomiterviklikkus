@@ -574,6 +574,16 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 - 6-4-fotoproduktid häirivad tugevalt DNA heeliksit.
 - Moodustuvad sagedasti 5'-CT-3' dinukleotiidide vahele.
 
+---
+
+## C>A transversioonid suitsetajatel
+
+- Üks sigaretimahv sisaldab $10^{10}$ osakest ja 4800 ühendit.
+- Paljud ühendid on kartsinogeensed, sh polütsüklilised aromaatsed süsivesikud (PAH), N-nitroosamiinid, aromaatsed amiinid ja metallid.
+- Suitsetajatel on oluliselt kõrgem C>A transversioonide sagedus.
+- Suitsetajate kopsuvähid sisaldavad 10X rohkem punktmutatsioone kui mittesuitsetajad.
+
+![C>A](http://ars.els-cdn.com/content/image/1-s2.0-S0092867412010227-fx1.jpg)
 
 ---
 
