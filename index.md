@@ -69,6 +69,15 @@ background-color: #CBE7A5; /* ; ; */
 
 ## Recap
 
+---
+
+## Tumorigenees
+
+- Pahaloomulise vähi teke on pikaajaline protsess, mis tavaliselt võtab aega aastakümneid.
+- Kasvaja progressioon põhineb rakkudes akumuleeruvatel juhuslikel geneetilistel või epigeneetilistel mutatsioonidel rakkude jagunemist ja ellujäämist reguleerivates geenides.
+- Mutatsioonid, mis annavad tulevasele vähirakule selektiivse eelise nimetatakse juht- või draivermutatsioonideks (*driver*).
+
+![hnscc](assets/img/CRCstages.jpg)
 
 --- .segue .dark .nobackground
 
@@ -797,3 +806,23 @@ Melano-phagolysosomes are organized into supranuclear "caps" within keratinocyte
 The role of glutathione-S-transferase in anti-cancer drug resistance.
 </a>
 </footer>
+
+---&twocol
+## Lingid eelmistele loengutele
+
+***=left
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+
+***=right
+
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
