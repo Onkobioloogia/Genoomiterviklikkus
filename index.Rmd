@@ -471,11 +471,28 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 </a>
 </footer>
 
+---&twocol
+
+## *Mismatch repair*
+
+***=left
+
+- MMR on kahjustust välja lõikav protsess, kus mittepaarduvad nukleotiidid lõigatakse ahelast välja.
+- MMR on seotud DNA replikatsiooniga, MMR valgud interakteeruvad PCNA-ga.
+- Mittepaardumist ära tundvad valgud lõikavad välja DNA segmendi kahjustusest lähima üheahelalise katkestuseni (*nick*) ja DNA pol$\delta$ sünteesib jäänud tühimiku täis.
+
+
+***=right
+
+![mmr](assets/img/MMR.png)
+
 ---
 
 ## Endogeensed biokeemilised protsessid
 
-Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($~10^{-7}M$) vesinik ja hüdroksüül ioone, mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**.
+
+- Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($~10^{-7}M$) vesinik ja hüdroksüül ioone, 
+- mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**.
 
 ---
 
@@ -533,16 +550,22 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 ---&twocol
 
-# UV põhjustatud DNA kahjustused
+## UV põhjustatud DNA kahjustused
 
-***=right
-
-# Tsüklobutaan pürimidiin dimeer (CPD)
+***=left
 
 - CPD on kõige sagedasem UV poolt indutseeritud kahjustus.
 - CPD moodustub kui kui kõrvuti asetsevate pürimidiinide C5 ja C6 vahel tekib kovalentne side ja moodustub **tsüklobutaan ring**.
 - Aluspaardumine tavaliselt ei häiru CPD tekkimise korral.
 - CPD moodustub kõige sagedamini kõrvuti asetsevate tpmiinide vahel (TT-CPD).
+
+***=right
+
+# Tsüklobutaan pürimidiin dimeer (CPD) ja  6-4-fotoprodukt
+
+![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
+
+---
 
 # 6-4-fotoprodukt
 
@@ -551,10 +574,6 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 - 6-4-fotoproduktid häirivad tugevalt DNA heeliksit.
 - Moodustuvad sagedasti 5'-CT-3' dinukleotiidide vahele.
 
-
-***=left
-
-![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
 
 ---
 
@@ -605,10 +624,10 @@ wikimedia.
 - Kui DNA kahjustus jääb parandamata põhjustab see replikatsioonikahvli toppama jäämise.
 - Seiskunud kahvel kollapseerub ja põhjustab DSB, mis võib viia genoomi ebastabiilsuseni.
 - **Rakud tolereerivad replikatsioonil ettejäävaid kahjustusi neist läbi sünteesides**.
-- Replikatiivsed proofreadingu aktiivsusega DNA polümeraasid Pol $\alpha$, $\delta$, $\epsilon$ ei suuda kahjustustest läbi sünteesida.
+- Replikatiivsed _proofreadingu_ aktiivsusega DNA polümeraasid Pol $\alpha$, $\delta$, $\epsilon$ ei suuda kahjustustest läbi sünteesida.
 - Imetajarakus 7 DNA polümeraasi millel on TLS võime.
-    - POLH, POLI, POLK, REV, Pol-$\zeta$, POLQ ja POLN.
-- **Ühelgi TLS Pol-idest pole eksonukleasset aktiivsust**.
+    - POLH, POLI (Pol-$\iota$), POLK, REV, Pol-$\zeta$, POLQ ja POLN.
+- **Ühelgi TLS Pol-idest pole eksonukleasset _proofreadingu_ aktiivsust**.
 
 ---&twocol
 
@@ -632,7 +651,7 @@ wikimedia.
 ## Nukleotiide välja lõikav parandus (NER)
 
 ***=left
-- NER eemaldab DNA heeliksit rikkuvad modifikatsioonid, mille on põhjustanud 
+- Heeliksit rikkuvaid modifikatsioone põhjustavad 
     - UV kiirgus, cisplatin, polütsüklilised aromaatsed süsivesikud (PAH).
 - Mõlemale poole kahjustust tehakse üheahelaline katkestus ja kahjustus lõigatakse välja.
 - 27-29 nuklotiidi pikkune auk sünteesitakse uuesti POL-$\delta$ või POL-$\epsilon$ poolt.
@@ -641,5 +660,97 @@ wikimedia.
 
 ***=right
 
+NER eemaldab DNA heeliksit rikkuvad modifikatsioonid.
 
 <img src="assets/img/NER.png">
+
+---
+
+## Xeroderma pigmentosum
+
+- Autosomaalne retsessiivne sündroom mida põdevaid inimesi iseloomustab äärmine fototundlikkus (intsidents 1:250000).
+- Kõrge nahavähi risk ja neuroloogilised defektid.
+- XP on põhjustatud inaktiveerivatest mutatsioonidest NER geenides.
+- XP geene on kokku 8, seitse neist siis NER funktsiooniga.
+- XP-V põhjustab TLS puudulikkus, mis on tingitud POLH mutatasioonidest.
+
+![xp](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg">
+Wikimedia.
+</a>
+</footer>
+
+---
+
+## XP, bypass (TLS) polümeraas ja vähk
+# XP-V põhjustavad mutatsioonid TLS DNA polümeraasis POLH (Pol-$\eta$).
+
+- POLH vahendab tolerantsust UV-kiirguse poolt tekitatud TT-CPD-le.
+- POLH inserteerib korrektselt AA nukleotiidid TT-CPD vastu.
+- XP-V mutatsioonid rikuvad POLH interaktsioonid TT-CPD-ga.
+- Polh-/- hiirtel tekivad UV-indutseeritud nahakasvajad.
+- UV põhjustab Polh-/- hiirtel DNA kaheahelalisi katkestusi.
+- XP-V patsientidel tekivad lamerakulised nahakartsinoomid, kui spontaansetest nahavähkidest POLH geeni mutatsioone leitud ei ole.
+- Kopsu ja maokasvajates on POLH ekspressioon vähenenud.
+
+---&twocol
+
+## 6-4-fotoprodukti TLS
+# 6-4-fotoproduktidest läbisünteesi viib korrektselt, vigadeta läbi POLI
+
+***=left
+
+- POLI võib sünteesida ka läbi TT-CPD, kui POLH on puudu, kuid mutageenselt/vigaselt.
+- Poli-/- rakud ei ole UV tundlikud ja hiirtel ei teki kasvajaid.
+- Poli-/-;Polh-/- hiirtel on võrreldes Polh-/- hiirtega hoopis UV mutagenees vähenenud, viidates et Poli on ~vigane tagavara Pol UV kahjustuste jaoks.
+- Võib oletata, et POLI vastutab ka XP-V patsientide nahavähi eest.
+
+***=right
+
+- Poli-/-;Polh-/- topelt *knock-out* hiirtel tekib siiski natuke rohkem kasvajaid ja nad surevad rutem kui Polh-/- hiired.
+![polh](http://mcb.asm.org/content/26/20/7696/F4.medium.gif)
+
+<footer class="source">Pilt: 
+<a href="http://mcb.asm.org/content/26/20/7696.full">
+UV-B Radiation Induces Epithelial Tumors in Mice Lacking DNA Polymerase η and Mesenchymal Tumors in Mice Deficient for DNA Polymerase ι.
+</a>
+</footer>
+
+---&twocol
+
+## BER defektid ja vähk
+
+***=left
+- POLB-l on 5'-deoksüriboos-fosfaadi (dRP) lüaassne aktiivsus, mida on vaja lämmastikaluse kadumisel alles jääva suhkru eemaldamiseks DNA ahelast.
+- POLB mutatsioone esineb 40% soolevähis ([Donigan et al., 2012](http://www.jbc.org/content/287/28/23830.abstract)).
+- POLB on samas ka üle-ekspresseeritud erinevates vähkides.
+- POLB üle-ekspressioon takistab normaalset replikatsiooni ja põhjustab mutatsioonide teket.
+- Polb üle-ekspresseerivatel hiirtel tekib rohkem osteosarkoome.
+
+***=right
+- Polb KO hiired surevad embrüonaalselt.
+- Polb+/- hiirtel on rohkem lümfoome, kuid elulemus oluliselt ei kannata.
+![polb](http://cancerres.aacrjournals.org/content/66/15/7460/F1.medium.gif)
+
+<footer class="source">Pilt: 
+<a href="http://cancerres.aacrjournals.org/content/66/15/7460.long">
+Haploinsufficiency in DNA Polymerase β Increases Cancer Risk.
+</a>
+</footer>
+
+---
+
+## Melaniin kui päikesevari
+# Naha UV kaitse
+
+- Melanotsüüdid nahas sisaldavad melanosoome, mis kanduvad edasi keratinotsüütidesse.
+- Melanosoomid moodustavad keratinotsüütides supranukleaarseid mütsikesi.
+
+![parasols](http://www.nature.com/jid/journal/v121/n4/images/5601970f1.gif)
+
+---
+
+## Glutatioon-S-transferaas
+
