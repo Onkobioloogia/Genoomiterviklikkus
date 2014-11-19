@@ -750,6 +750,13 @@ Haploinsufficiency in DNA Polymerase β Increases Cancer Risk.
 
 ![parasols](http://www.nature.com/jid/journal/v121/n4/images/5601970f1.gif)
 
+<footer class="source">Pilt: 
+<a href="http://www.nature.com/jid/journal/v121/n4/full/5601970a.html">
+Melano-phagolysosomes are organized into supranuclear "caps" within keratinocytes.
+</a>
+</footer>
+
+
 ---
 
 ## Glutatioon-S-transferaas
