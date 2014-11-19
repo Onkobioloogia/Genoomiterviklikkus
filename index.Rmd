@@ -479,7 +479,7 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 
 - MMR on kahjustust välja lõikav protsess, kus mittepaarduvad nukleotiidid lõigatakse ahelast välja.
 - MMR on seotud DNA replikatsiooniga, MMR valgud interakteeruvad PCNA-ga.
-- Mittepaardumist ära tundvad valgud lõikavad välja DNA segmendi kahjustusest lähima üheahelalise katkestuseni (*nick*) ja DNA pol$\delta$ sünteesib jäänud tühimiku täis.
+- Mittepaardumine põhjustab DNA paindumise/mügara (*bulge*) mis viib MMR valkude värbamiseni ja need lõikavad välja DNA segmendi kahjustusest lähima üheahelalise katkestuseni (*nick*) ja DNA pol$\delta$ sünteesib jäänud tühimiku täis.
 
 
 ***=right
