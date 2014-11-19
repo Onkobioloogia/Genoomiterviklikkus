@@ -585,9 +585,16 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 - Suitsetajatel on oluliselt kõrgem C>A transversioonide sagedus.
 - Suitsetajate kopsuvähid sisaldavad 10X rohkem punktmutatsioone kui mittesuitsetajad.
 
+
 ***=right
 
 ![C>A](http://ars.els-cdn.com/content/image/1-s2.0-S0092867412010227-fx1.jpg)
+
+<footer class="source">Pilt: 
+<a href="http://www.sciencedirect.com/science/article/pii/S0092867412010227">
+Genomic Landscape of Non-Small Cell Lung Cancer in Smokers and Never-Smokers.
+</a>
+</footer>
 
 ---
 
