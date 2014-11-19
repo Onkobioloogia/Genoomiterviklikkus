@@ -579,7 +579,7 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 ## C>A transversioonid suitsetajatel
 
 - Üks sigaretimahv sisaldab $10^{10}$ osakest ja 4800 ühendit.
-- Paljud ühendid on kartsinogeensed, sh polütsüklilised aromaatsed süsivesikud (PAH), N-nitroosamiinid, aromaatsed amiinid ja metallid.
+- Paljud ühendid on kartsinogeensed, sh polütsüklilised aromaatsed süsivesikud (PAH;  benzo[a]pyrene (BaP)), N-nitroosamiinid, aromaatsed amiinid ja metallid.
 - Suitsetajatel on oluliselt kõrgem C>A transversioonide sagedus.
 - Suitsetajate kopsuvähid sisaldavad 10X rohkem punktmutatsioone kui mittesuitsetajad.
 
