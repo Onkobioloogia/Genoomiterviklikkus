@@ -531,17 +531,115 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 </a>
 </footer>
 
+---&twocol
+
+# UV põhjustatud DNA kahjustused
+
+***=right
+
+# Tsüklobutaan pürimidiin dimeer (CPD)
+
+- CPD on kõige sagedasem UV poolt indutseeritud kahjustus.
+- CPD moodustub kui kui kõrvuti asetsevate pürimidiinide C5 ja C6 vahel tekib kovalentne side ja moodustub **tsüklobutaan ring**.
+- Aluspaardumine tavaliselt ei häiru CPD tekkimise korral.
+- CPD moodustub kõige sagedamini kõrvuti asetsevate tpmiinide vahel (TT-CPD).
+
+# 6-4-fotoprodukt
+
+- Sageduselt teine UV kahjustus.
+- Moodustub kovalentne side 5' pürimidiini C6 positsiooni ja 3' kõrvalasuva pürimidiinaluse C4 pos. vahel.
+- 6-4-fotoproduktid häirivad tugevalt DNA heeliksit.
+- Moodustuvad sagedasti 5'-CT-3' dinukleotiidide vahele.
+
+
+***=left
+
+![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
+
 ---
 
-## Eksogeensed mutageenid
+## DNA reparatsiooni ja kahjustuste tolereerimismehhanismid
+
+# Reparatsioonimehhanismid
+
+- **Lämmastikalust välja lõikav parandus** (*base excision repair*, *BER*),
+- **Nukleotiide välja lõikav parandus** (*nucleotide excision repair*, *NER*).
+- DNA katkestusi ja lünkasid (*gap*) parandatakse **homoloogse rekombinatsiooni** (*HR*) ja **mittehomoloogse otste ühendamise teel** (*NHEJ*).
+
+# Tolereerimismehhanismid
+
+- **Kahjustustest DNA läbisüntees** (*translesion DNA synthesis*)
+- **Maatrikshela vahetus** (*template switching*)
 
 
+---&twocol
+
+## DNA reparatsiooniensüümide akumuleerumine on seotud kaheahelaliste katkestustega
+
+***=left
+
+- Vähirakkudes tekib DSB (*double starnd break*)-le tugev vastus, mis põhjustab reparatsioonivalkude akumuleerumise kromatiinile.
+- Reparatsiooniensüümide ekspressiooni reguleerivad onkogeenid, pidev replikatsioonikahvlite initsatsioon ja põrkumine.
+- Replikatsioonikahvlite toppamine tõstab DSB riski ja tagajärjeks on katkestuste kasv.
+
+***=right
+
+<img src="http://upload.wikimedia.org/wikipedia/en/6/6c/Interaction_of_XRCC4_in_NHEJ.jpg" style="width:400px">
+
+<footer class="source">Pilt: 
+<a href="http://upload.wikimedia.org/wikipedia/en/6/6c/Interaction_of_XRCC4_in_NHEJ.jpg">
+wikimedia.
+</a>
+</footer>
 
 ---
 
-## DNA kahjustuste tolerans ja kartsenogenees
-
-a | Replication forks can be blocked by lesions in DNA. When a translesion DNA synthesis (TLS) polymerase (Pol; blue) is available, a lesion can be bypassed by TLS, potentially causing point mutagenesis, or template switching can mediate bypass in an error-free manner (Fig. 2). Point mutagenesis (highlighted in red) can lead to cancer formation in normal cells or to resistance to therapeutic agents in cancer cells. b | In the absence of a TLS polymerase, no translesion bypass occurs (although there will still be some template switching) and replication forks collapse, leading to double-strand breaks and chromosome instability, which increases the incidence of cancer.
+# Replikatsioonikahvli arresteerumine kahjustatud lämmastikaluste juures põhjustab genoomi ebastabiilsust
 
 ![dämmits](http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg)
 
+---
+
+## Kahjustustest DNA ahela läbisüntees (TLS)
+
+- Kui DNA kahjustus jääb parandamata põhjustab see replikatsioonikahvli toppama jäämise.
+- Seiskunud kahvel kollapseerub ja põhjustab DSB, mis võib viia genoomi ebastabiilsuseni.
+- **Rakud tolereerivad replikatsioonil ettejäävaid kahjustusi neist läbi sünteesides**.
+- Replikatiivsed proofreadingu aktiivsusega DNA polümeraasid Pol $\alpha$, $\delta$, $\epsilon$ ei suuda kahjustustest läbi sünteesida.
+- Imetajarakus 7 DNA polümeraasi millel on TLS võime.
+    - POLH, POLI, POLK, REV, Pol-$\zeta$, POLQ ja POLN.
+- **Ühelgi TLS Pol-idest pole eksonukleasset aktiivsust**.
+
+---&twocol
+
+## Lämmastikalust välja lõikav reparatsioon (BER)
+
+***=left
+
+- Substraadiks on uratsiiljäägid, ROS-kahjustatud alused, hüdrolüütilised reaktsiooniproduktid ja metülatsioonid.
+- Kahjustatud lämmastikaluse eemaldab aluse spetsiifliline **DNA glükosülaas** (nt. UNG).
+- Tekkinud lämmastikaluseta koha eemaldab **AP endonukleaas** (AP, *apyrimidinic* või *apurimidinic*; APEX1).
+- 5'-deoksüriboosfosfaadi (dRP) lõikab välja **dRP lüaas** (POLB ühe domääni aktiivsus).
+- Järele jäänud 1 nukleotiidse augu sünteesib täis **POLB** (Pol $\beta$).
+
+***=right
+- BER tähendab ühe nukleotiidi lämmastikaluse eemaldamist ja nukleotiidi asendamist.
+
+<img src="assets/img/BER.png">
+
+--- &twocol
+
+## Nukleotiide välja lõikav parandus (NER)
+
+***=left
+- NER eemaldab DNA heeliksit rikkuvad modifikatsioonid, mille on põhjustanud 
+    - UV kiirgus, cisplatin, polütsüklilised aromaatsed süsivesikud (PAH).
+- Mõlemale poole kahjustust tehakse üheahelaline katkestus ja kahjustus lõigatakse välja.
+- 27-29 nuklotiidi pikkune auk sünteesitakse uuesti POL-$\delta$ või POL-$\epsilon$ poolt.
+- *GAP*-filling sõltub PCNA-st ja ssDNA siduvast RPA valgust.
+
+
+***=right
+
+
+<img src="assets/img/NER.png">
