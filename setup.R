@@ -5,4 +5,5 @@ library(slidifyLibraries)
 
 setwd("~/Dropbox/Onkobioloogia/Genoomiterviklikkus/")
 slidify('index.Rmd')
+browseURL("index.html")
 publish("Genoomiterviklikkus", "tpall")
