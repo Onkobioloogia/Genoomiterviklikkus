@@ -362,14 +362,6 @@ vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full)
 2. Nukleotiidide spontaansed biokeemilised muutused (depurineerumine ja depürimidineerumine, deamineerumine)
 3. Mutageensete ühendite poolt põhjustatud nukleotiidide muutused (nt UV kiirgus, alkülatsioon)
 
-
----
-## Reparatsioonimehhanismid
-
-- Biokeemilised reparatsioonimehhanismid tegelevad genoomse DNA mutatsioonidega lisaks raku ja koe tasemel toimivatele mehhanismidele, mis koos peaksid minimeerima muteerunud somaatilise DNA säilimise ja pärandumise
-- Ilma genoomi korrashoiu mehhanismide lõhkumiseta oleks spontaanne raku mutatsioonisagedus liiga madal, et akumuleeruksid tumorigeneesiks vajalikud mutatsioonid.
-
-
 ---
 ## DNA replikatsiooni vead
 
@@ -550,24 +542,36 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 ***=left
 
-- CPD on kõige sagedasem UV poolt indutseeritud kahjustus.
-- CPD moodustub kui kui kõrvuti asetsevate pürimidiinide C5 ja C6 vahel tekib kovalentne side ja moodustub **tsüklobutaan ring**.
-- Aluspaardumine tavaliselt ei häiru CPD tekkimise korral.
-- CPD moodustub kõige sagedamini kõrvuti asetsevate tpmiinide vahel (TT-CPD).
+- CPD on kõige sagedasem UV poolt indutseeritud kahjustus (71%)
+- CPD moodustub kui kui kõrvuti asetsevate pürimidiinide C5 ja C6 vahel tekib kovalentne side ja moodustub **tsüklobutaan ring**
+- Aluspaardumine tavaliselt ei häiru CPD tekkimise korral
+- CPD moodustub kõige sagedamini kõrvuti asetsevate tpmiinide vahel (TT-CPD)
 
 ***=right
 
-# Tsüklobutaan pürimidiin dimeer (CPD) ja  6-4-fotoprodukt
+# Tsüklobutaan pürimidiin dimeer (CPD) ja  pürimidiin(6-4)pürimidoon fotoprodukt (6-4 PP)
 
 ![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
 
 ---
-# 6-4-fotoprodukt
+# pürimidiin(6-4)pürimidoon fotoprodukt
 
-- Sageduselt teine UV kahjustus.
-- Moodustub kovalentne side 5' pürimidiini C6 positsiooni ja 3' kõrvalasuva pürimidiinaluse C4 pos. vahel.
-- 6-4-fotoproduktid häirivad tugevalt DNA heeliksit.
-- Moodustuvad sagedasti 5'-CT-3' dinukleotiidide vahele.
+- Sageduselt teine UV kahjustus (24%)
+- Moodustub kovalentne side 5' pürimidiini C6 positsiooni ja 3' kõrvalasuva pürimidiinaluse C4 positsiooni vahel
+- 6-4-fotoproduktid häirivad tugevalt DNA heeliksit
+- Moodustuvad TT (60%), CT (30%) ja CC (10%) dinukleotiidide vahele
+
+---
+## DNA-d alküleerivad ühendid aktiveeritakse CYP-ide poolt
+# Prokartsinogeenid konverteeritakse ülikartsenogeenideks
+
+<img src="http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-f2.jpg" style="width:480px">
+
+<footer class="source">
+Activation of aflatoxin B1 (AFB1), 2-acetylaminofluorene (AAF), and benzo[a]pyrene (BP) requires the activity of cytochrome-P450-dependent monooxygenases (CYPs). 1,2-Dichloroethane (DCE) is activated by glutathione S-transferases (GSTs) into glutathione (GSH) half-mustard and GSH episulphonium electrophiles, which can bind directly to DNA. GST-catalysed conjugation of trichloroethylene (TCE) produces GSH adducts. The red arrows point to the position of the nucleophile (DNA, protein, GSH) attack. GSH conjugates of AFB1 oxide or PAH diol-epoxides are detoxification products.
+</footer>
+
+
 
 ---&twocol
 ## C>A transversioonid suitsetajatel
