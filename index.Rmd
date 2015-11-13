@@ -66,11 +66,9 @@ background-color: #CBE7A5; /* ; ; */
 </style>
 
 --- .segue .dark .nobackground
-
 ## Recap
 
 ---
-
 ## Tumorigenees
 
 - Pahaloomulise vähi teke on pikaajaline protsess, mis tavaliselt võtab aega aastakümneid.
@@ -80,7 +78,6 @@ background-color: #CBE7A5; /* ; ; */
 ![hnscc](assets/img/CRCstages.jpg)
 
 --- .segue .dark .nobackground
-
 ## Tüvirakud on mutageneesi märklauad
 
 ---
@@ -97,7 +94,6 @@ background-color: #CBE7A5; /* ; ; */
 - Naha keratinotsüüdid surevad 20-30 päeva jooksul.
 
 ---&twocol
-
 ## Epiteeli struktuur minimeerib geenikahjustusi
 # Tüvirakkude genoom on hästi kaitstud
 
@@ -118,7 +114,6 @@ Adult intestinal stem cells: critical drivers of epithelial homeostasis and rege
 </footer>
 
 ---&twocol
-
 ## Soole mukoosa kaitseb vähi eest
 # GI vähi intsidents Muc2 hiirtel
 
@@ -149,7 +144,6 @@ Van der Sluis et al., 2006.
 </footer>
 
 ---
-
 ## Tüvirakud on mutageneesi märklauad
 # Pikaealised rakud kontributeerivad vähi tekkesse
 
@@ -181,7 +175,6 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 - d, Combination of cell divisions: each stem cell can divide either symmetrically or asymmetrically.
 
 ---
-
 ## DNA kahjustuste vältimise strateegiad tüvirakkudes
 
 Lisaks tüvirakkude suhteliselt **aeglasemale jagunemisele** ja nende **asumisele anatoomiliselt kaitstud kohtades**, toimib veel mitu teist mehhanismi:
@@ -191,7 +184,6 @@ Lisaks tüvirakkude suhteliselt **aeglasemale jagunemisele** ja nende **asumisel
 - **Asümmeetriline replitseerunud DNA jaotumine**.
 
 ---&twocol
-
 ## *Multi drug resistance* perekonna valgud
 # Raku toksiinipumbad
 
@@ -219,7 +211,6 @@ Zaman et al., 1994.
 </footer>
 
 ---
-
 ## P-glükovalgu struktuur
 # *P-glycoprotein/MDR1*
 
@@ -272,7 +263,6 @@ Cancer cells in metastatic cancers are often particularly difficult to treat bec
 </p>
 
 ---&twocol
-
 ## Asümmeetriline DNA jaotumine tütarrakkude vahel
 # Raku jagunemisel peegeldub tütarrakkude saatus ka nende DNA-s.
 
@@ -292,7 +282,6 @@ Richard Robinson, 2007.
 </footer>
 
 ---&twocol
-
 ## Matriits DNA selektiivne segregatsioon
 # Konserveerunud DNA ahel jääb tüviraku kompartementi
 
@@ -307,7 +296,6 @@ Richard Robinson, 2007.
 - [Cairnsi hüpotees, 1975](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html): replitseerunud tüviraku matriits DNA segregeerub tüvirakust tütarrakule ja uuesti sünteesitud ahelat sisaldav DNA pärandub transitoorselt prolifereeruvale tütarrakule.
 
 ---
-
 ## Tüviraku nišš ei jagune intensiivselt
 # Somaatilised tüvirakud ei märgistu hästi DNA-sse lülituvate ühenditega, välja arvatud tekkimisel ja koe kahjustuste korral.
 
@@ -324,7 +312,6 @@ Smith, 2005.
 </footer>
 
 ---
-
 ## Konserveerunud DNA-d sisaldavad rakud karvanääpsus
 
 _**Label-retaining cells**_ eksperimentaalselt defineeritud rakupopulatsioon,  mis säilitavad DNA-sse lülitatud märgise (nt. BrdU) ja mis peaksid olema aeglaselt jagunevad tüvirakud.
@@ -349,9 +336,20 @@ Hsu et al., 2011.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png" style="width:100px" >
 
-<footer class="source">Pilt: benso[a]püreen. Wikipedia.
+<footer class="source">Pilt: Benzo(a)pyrene. Wikipedia.
 </footer>
 
+---
+## Vähiteke on seotud tüvirakkude jagunemisega
+
+![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
+
+
+<footer class="source">Variation in cancer risk among tissues can be explained by the number of stem cell divisions
+Science 2 January 2015: 
+vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full) 
+
+</footer>
 
 --- .segue .dark .nobackground
 ## DNA reparatsioon
