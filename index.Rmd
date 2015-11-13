@@ -482,7 +482,7 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 ![mmr](assets/img/MMR.png)
 
 ---
-## Endogeensed biokeemilised protsessid
+## DNA-d kahjustavad endogeensed biokeemilised protsessid
 
 - Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($~10^{-7}M$) vesinik ja hüdroksüül ioone, 
 - mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**.
@@ -537,8 +537,20 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 </a>
 </footer>
 
----&twocol
+---
 ## UV põhjustatud DNA kahjustused
+
+- UV-B kiirgus kui kõige suurema energiaga päikesevalguse komponent võib viia kolme põhilise  DNA kahjustuse tekkeni:
+- tsüklobutaan pürimidiin dimeerid (CPD) 
+- Pürimidiin 6-4 pürimidoon fotoprodukt (6-4PP) ja selle Dewar isomeer
+
+![UVdamage](https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_JNA2010-592980.002.png?keywords=2)
+
+<footer class="source">Pilt: Structures of DNA duplexes showing the presence of lesions (in green) such as CPD (a), 6-4PP (b), and 6-4 Dewar dimer (c). [Molecular mechanisms of ultraviolet radiation-induced DNA damage and repair](https://openi.nlm.nih.gov/detailedresult.php?img=3010660_JNA2010-592980.002&req=4)
+</footer>
+
+---&twocol
+## Tsüklobutaan pürimidiin dimeer
 
 ***=left
 
@@ -549,21 +561,25 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 ***=right
 
-# Tsüklobutaan pürimidiin dimeer (CPD) ja  pürimidiin(6-4)pürimidoon fotoprodukt (6-4 PP)
-
 ![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
 
 ---
-# pürimidiin(6-4)pürimidoon fotoprodukt
+## Pürimidiin(6-4)pürimidoon fotoprodukt
 
 - Sageduselt teine UV kahjustus (24%)
 - Moodustub kovalentne side 5' pürimidiini C6 positsiooni ja 3' kõrvalasuva pürimidiinaluse C4 positsiooni vahel
 - 6-4-fotoproduktid häirivad tugevalt DNA heeliksit
 - Moodustuvad TT (60%), CT (30%) ja CC (10%) dinukleotiidide vahele
 
+![6-4PP](http://www.pnas.org/content/96/12/6632/F4.large.jpg)
+
+<footer class="source">Pilt: Solution structure of the (6–4)/GA duplex. (A) Superimposed stereo view of 10 intensity refined structures of the (6–4)/GA duplex. (B) Stick view of the central four base pairs of the (6–4)/GA duplex. The sugar and backbone atoms are magenta. Two thymine bases (T5, T6) of the (6–4) adduct are red, and their opposite G15 and A16 bases are yellow and green, respectively. The flanking base pairs are cyan. The hydrogen atoms are excluded. 
+Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6632.long).
+</footer>
+
 ---
-## DNA-d alküleerivad ühendid aktiveeritakse CYP-ide poolt
-# Prokartsinogeenid konverteeritakse ülikartsenogeenideks
+## Prokartsinogeen + CYP = ülikartsinogeen
+# DNA-d alküleerivad ühendid aktiveeritakse CYP-id poolt
 
 <img src="http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-f2.jpg" style="width:480px">
 
@@ -571,10 +587,17 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 Activation of aflatoxin B1 (AFB1), 2-acetylaminofluorene (AAF), and benzo[a]pyrene (BP) requires the activity of cytochrome-P450-dependent monooxygenases (CYPs). 1,2-Dichloroethane (DCE) is activated by glutathione S-transferases (GSTs) into glutathione (GSH) half-mustard and GSH episulphonium electrophiles, which can bind directly to DNA. GST-catalysed conjugation of trichloroethylene (TCE) produces GSH adducts. The red arrows point to the position of the nucleophile (DNA, protein, GSH) attack. GSH conjugates of AFB1 oxide or PAH diol-epoxides are detoxification products.
 </footer>
 
+---
+## Benso(a)püreendiool epoksiid DNA kahjustus
 
+<img src="http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-i2.jpg" style="height:400px">
+
+<footer class="source">
+Benzo[a]pyrene (BP) theoretically can be metabolized into four different 7,8-diol-9,10-epoxide stereoisomers (see figure). The (+)-anti-7R,8S-diol-9S,10R-epoxide of BP [(+)-anti-BPDE] is formed in great excess, both in vitro and in vivo, compared with the other three stereoisomers, the (+)-syn-, (-)-syn- and (-)-anti-BPDE. (+)-Anti-BPDE derives from further epoxidation of the R,R-dihydrodiol precursor, as shown in Fig. 2. Some small amounts of the (+)-syn-BPDE isomer are usually detectable as a result of further epoxidation of the S,S-dihydrodiol precursor (not shown). From all four possible stereoisomers, the (+)-anti-BPDE has the highest intrinsic genotoxic and carcinogenic potency. The major DNA adduct, the (+)-trans-anti-BPDE-N2-dG, derives from trans opening of the epoxide moiety. This adduct is more resistant to nucleotide excision repair than the cis-opened product, (+)-cis-anti-BPDE-N2-dG. Resistance to DNA repair and subsequent DNA replication across this 'bulky' DNA adduct — translesional synthesis (TLS) — can lead to the induction of Gright arrowT base pair transversions in cancer genes such as TP53 or KRAS.
+</footer>
 
 ---&twocol
-## C>A transversioonid suitsetajatel
+## G:C>T:A transversioonid suitsetajatel
 
 ***=left
 
@@ -594,20 +617,56 @@ Genomic Landscape of Non-Small Cell Lung Cancer in Smokers and Never-Smokers.
 </a>
 </footer>
 
----
+---&twocol
+## Aflatoksiin B1 ja maksavähk
+
+***=left
+
+<img src="http://www.mygen.com/images/aflatoxin.jpg" style="width:360px">
+
+***=right
+
+<img src="http://www.nature.com/nrc/journal/v3/n5/images/nrc1076-i1.gif" style="width:360px">
+
+<footer class="source">Pilt: 
+Many chemicals, including aflatoxin, require metabolic activation to electrophilic intermediates to exert carcinogenic activity. These species can react with and modify DNA, leading to the formation of pro-mutagenic lesions that result in the activation of protooncogenes and the inactivation of tumour-suppressor genes. Aflatoxin B1 undergoes an initial two-electron oxidation by the cytochrome P450-family members CYP1A2 and CYP3A4, yielding aflatoxin-B1-8,9-oxide. This epoxide reacts with the N7 atom of guanine to form a pro-mutagenic DNA adduct (aflatoxin–N7-guanine). The aflatoxin–DNA adduct is unstable and undergoes depurination, leading to its urinary excretion (bottom).
+Aflatoxin-B1-8,9-oxide is also a substrate for several isoforms of human glutathione S-transferases (GSTs), which yield a stable, non-toxic, polar product that is excreted in the bile. The aflatoxin–glutathione product also undergoes sequential metabolism in the liver and kidneys to be excreted as a mercapturic acid (aflatoxin–N-acetylcysteine) in the urine.
+Aflatoxin B1 also undergoes extensive oxidation, which is catalysed by cytochrome P450s. In addition to formation of the 8,9-oxide, oxidation by CYP1A2 yields a stable urinary metabolite, aflatoxin M1, that is excreted in milk (top). Aflatoxin M1 is less carcinogenic or mutagenic than aflatoxin B1, but is equally toxic. The oxidation products of aflatoxin can be excreted without further biotransformation or can be conjugated by UDP-glucuronosyl transferases44, 53.
+Collectively, these end products of aflatoxin biotransformation are biomarkers of exposure to aflatoxin and risk of hepatocellular carcinoma.
+</footer>
+
+---&twocol
+## Heterotsüklilised amiinid
+
+- HCA-d moodustuvad kui lihas leiduvad kreatiin ja aminohapped reageerivad kõrgel kuumusel (>200 C)
+
+***=left
+<img src="http://www.precisionnutrition.com/wordpress/wp-content/uploads/2010/08/formation-of-HCA-with-heat.jpg" style="height:300px">
+
+***=right
+
+![hca](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/images/photos/features/in_translation/3.jpg)
+
+<footer class="source">Pilt: Vasem: [HCA moodustumine](http://www.precisionnutrition.com/all-about-cooking-carcinogens). 
+Parem, [The boiling issue](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/features/in_translation.html).
+</footer>
+
+
+---.segue .dark .nobackground
 ## DNA reparatsiooni ja kahjustuste tolereerimismehhanismid
 
-# Reparatsioonimehhanismid
+---
+## Reparatsioonimehhanismid
 
-- **Lämmastikalust välja lõikav parandus** (*base excision repair*, *BER*),
-- **Nukleotiide välja lõikav parandus** (*nucleotide excision repair*, *NER*).
-- DNA katkestusi ja lünkasid (*gap*) parandatakse **homoloogse rekombinatsiooni** (*HR*) ja **mittehomoloogse otste ühendamise teel** (*NHEJ*).
+- Lämmastikalust välja lõikav parandus (*base excision repair*, *BER*),
+- Nukleotiide välja lõikav parandus (*nucleotide excision repair*, *NER*).
+- DNA katkestusi ja lünkasid (*gap*) parandatakse homoloogse rekombinatsiooni (*HR*) ja mittehomoloogse otste ühendamise teel (*NHEJ*).
 
-# Tolereerimismehhanismid
+---
+## Tolereerimismehhanismid
 
-- **Kahjustustest DNA läbisüntees** (*translesion DNA synthesis*)
-- **Maatrikshela vahetus** (*template switching*)
-
+- Kahjustustest DNA läbisüntees (*translesion DNA synthesis*)
+- Maatrikshela vahetus (*template switching*)
 
 ---&twocol
 ## DNA reparatsiooniensüümide akumuleerumine on seotud kaheahelaliste katkestustega
@@ -629,7 +688,7 @@ wikimedia.
 </footer>
 
 ---
-# Replikatsioonikahvli arresteerumine kahjustatud lämmastikaluste juures põhjustab genoomi ebastabiilsust
+# Replikatsioonikahvli arresteerumine kahjustatud kaluste juures põhjustab genoomi ebastabiilsust
 
 ![dämmits](http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg)
 
@@ -707,15 +766,15 @@ Wikimedia.
 - Kopsu ja maokasvajates on POLH ekspressioon vähenenud.
 
 ---&twocol
-## 6-4-fotoprodukti TLS
-# 6-4-fotoproduktidest läbisünteesi viib korrektselt, vigadeta läbi POLI
+## 6-4 PP TLS
+# 6-4 PP läbisünteesi viib korrektselt, vigadeta läbi POLI
 
 ***=left
 
-- POLI võib sünteesida ka läbi TT-CPD, kui POLH on puudu, kuid mutageenselt/vigaselt.
-- Poli-/- rakud ei ole UV tundlikud ja hiirtel ei teki kasvajaid.
-- Poli-/-;Polh-/- hiirtel on võrreldes Polh-/- hiirtega hoopis UV mutagenees vähenenud, viidates et Poli on ~vigane tagavara Pol UV kahjustuste jaoks.
-- Võib oletata, et POLI vastutab ka XP-V patsientide nahavähi eest.
+- POLI võib sünteesida ka läbi TT-CPD, kui POLH on puudu, kuid mutageenselt/vigaselt
+- Poli-/- rakud ei ole UV tundlikud ja hiirtel ei teki kasvajaid
+- Poli-/-;Polh-/- hiirtel on võrreldes Polh-/- hiirtega hoopis UV mutagenees vähenenud, viidates et Poli on ~vigane tagavara Pol UV kahjustuste jaoks
+- Võib oletata, et POLI vastutab ka XP-V patsientide nahavähi eest
 
 ***=right
 
