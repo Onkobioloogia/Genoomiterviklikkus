@@ -354,33 +354,29 @@ vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full)
 --- .segue .dark .nobackground
 ## DNA reparatsioon
 
+
 ---
-## Biokeemilised reparatsioonimehhanismid
+## Genoomse DNA mutatsioonid
 
-Lisaks raku ja koe tasemel toimivatele mehhanismidele, mis peaksid minimeerima muteerunud somaatilise DNA säilimise ja pärandumise ekisteerivad loomulikult ka biokeemilised DNA reparatsioonimehhanismid.
+1. Replikatsioonivead mis tekivad DNA sünteesil (vale nukleotiidi lülitamine ahelasse)
+2. Nukleotiidide spontaansed biokeemilised muutused (depurineerumine ja depürimidineerumine, deamineerumine)
+3. Mutageensete ühendite poolt põhjustatud nukleotiidide muutused (nt UV kiirgus, alkülatsioon)
 
-Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
-- **replikatsioonivead** mis tekivad DNA sünteesil (vale nukleotiidi lülitamine ahelase),
-- **nukleotiidide spontaansed biokeemilised muutused** (depurineerumine ja depürimidineerumine, deamineerumine),
-- **mutageensete ühendite poolt põhjustatud nukleotiidide muutused** (kiirgus, alkülatsioon).
+
+---
+## Reparatsioonimehhanismid
+
+- Biokeemilised reparatsioonimehhanismid tegelevad genoomse DNA mutatsioonidega lisaks raku ja koe tasemel toimivatele mehhanismidele, mis koos peaksid minimeerima muteerunud somaatilise DNA säilimise ja pärandumise
+- Ilma genoomi korrashoiu mehhanismide lõhkumiseta oleks spontaanne raku mutatsioonisagedus liiga madal, et akumuleeruksid tumorigeneesiks vajalikud mutatsioonid.
+
 
 ---
 ## DNA replikatsiooni vead
-# Imetajate genoomis on 15 DNA polümeraasi. Mõned funktsioneerivad genoomi replikatsioonil, kuid enamus toimivad DNA kahjustuste parandamisel
 
+- Imetajate genoomis on 15 DNA polümeraasi. Mõned funktsioneerivad genoomi replikatsioonil, kuid enamus toimivad DNA kahjustuste parandamisel
 - DNA replikatsiooni viivad läbi DNA Pol $\alpha$, Pol $\delta$ ja Pol $\epsilon$.
 - DNA polümeraasid lülitavad vigase nukleotiidi DNA-sse sagedusega 1/100000 aluspaari kohta ($10^{-5}$).
 - Inimese genoomi replitseerimisel teeb see diploidses rakus oleva $6\times10^{9}$ aluspaari kohta  `r sprintf("%.0f",6*1e9*1e-5)` mutatsiooni.
-
----
-## Hüpotees
-
-<div style="
-background-color:lightgrey">
-<q>
-Ilma genoomi korrashoiu mehhanismide lõhkumiseta oleks spontaanne raku mutatsioonisagedus liiga madal, et akumuleeruksid tumorigeneesiks vajalikud mutatsioonid.
-</q>
-</div>
 
 ---
 ## Proofreading ja mismatch repair
