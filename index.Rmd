@@ -401,7 +401,6 @@ Seshagiri, 2013.
 </footer>
 
 ---&twocol
-
 ## The proofreading is crucial for preventing mutations
 
 ***=left
@@ -448,7 +447,6 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 </footer>
 
 ---&twocol
-
 ## MMR ja mikrosatelliitide ebastabiilsus
 
 Mononukleotiidsed kordusjärjestused ehk **mikrosatelliidid** on eriti avatud replikatsioonivigadele mis on tingitud *mismatch repair* funktsiooni kadumise tõttu.
@@ -462,7 +460,6 @@ DNA Replication and Causes of Mutation.
 </footer>
 
 ---&twocol
-
 ## Mikrosatelliitide ebastabiilsus soolevähis
 
 ***=right
@@ -485,7 +482,6 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 </footer>
 
 ---&twocol
-
 ## *Mismatch repair*
 
 ***=left
@@ -500,15 +496,12 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 ![mmr](assets/img/MMR.png)
 
 ---
-
 ## Endogeensed biokeemilised protsessid
-
 
 - Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($~10^{-7}M$) vesinik ja hüdroksüül ioone, 
 - mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**.
 
 ---
-
 ## Depurinatsioon
 
 - **Depurinatsioon** on spontaanne adeniini või guaniini eraldumine deoksüriboosist.
@@ -519,7 +512,6 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 ![puristamine](http://o.quizlet.com/0Zsi0iTSRfx1g7hVmFp.xQ.jpg)
 
 ---&twocol
-
 ## Deaminatsioon
 
 - **Deaminatsiooni** tõttu kaotavad tsütosiin, adeniin või guaniin oma amiinrühma.
@@ -536,7 +528,6 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 <img src="assets/img/Deamination of Bases.JPG" style="width:400px">
 
 ---
-
 ## DNA oksüdeerimine
 
 Mitokondriaalset või peroksüsomaalset päritolu hapniku radikaalid põhjustavad DNA aluste oksüdatsiooni. Tekib terve rida reaktsiooniprodukte.
@@ -550,7 +541,6 @@ DNA base products of interaction with reactive oxygen and free radical species.
 </footer>
 
 ---
-
 ## DNA oksüdatsioon on seotud aeroobse metabolismiga
 
 <img src="assets/img/oxidation.png" style="width:400px">
@@ -562,7 +552,6 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 </footer>
 
 ---&twocol
-
 ## UV põhjustatud DNA kahjustused
 
 ***=left
@@ -579,7 +568,6 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 ![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
 
 ---
-
 # 6-4-fotoprodukt
 
 - Sageduselt teine UV kahjustus.
@@ -588,7 +576,6 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 - Moodustuvad sagedasti 5'-CT-3' dinukleotiidide vahele.
 
 ---&twocol
-
 ## C>A transversioonid suitsetajatel
 
 ***=left
@@ -610,7 +597,6 @@ Genomic Landscape of Non-Small Cell Lung Cancer in Smokers and Never-Smokers.
 </footer>
 
 ---
-
 ## DNA reparatsiooni ja kahjustuste tolereerimismehhanismid
 
 # Reparatsioonimehhanismid
@@ -626,7 +612,6 @@ Genomic Landscape of Non-Small Cell Lung Cancer in Smokers and Never-Smokers.
 
 
 ---&twocol
-
 ## DNA reparatsiooniensüümide akumuleerumine on seotud kaheahelaliste katkestustega
 
 ***=left
@@ -646,13 +631,11 @@ wikimedia.
 </footer>
 
 ---
-
 # Replikatsioonikahvli arresteerumine kahjustatud lämmastikaluste juures põhjustab genoomi ebastabiilsust
 
 ![dämmits](http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg)
 
 ---
-
 ## Kahjustustest DNA ahela läbisüntees (TLS)
 
 - Kui DNA kahjustus jääb parandamata põhjustab see replikatsioonikahvli toppama jäämise.
@@ -664,7 +647,6 @@ wikimedia.
 - **Ühelgi TLS Pol-idest pole eksonukleasset _proofreadingu_ aktiivsust**.
 
 ---&twocol
-
 ## Lämmastikalust välja lõikav reparatsioon (BER)
 
 ***=left
@@ -681,7 +663,6 @@ wikimedia.
 <img src="assets/img/BER.png">
 
 --- &twocol
-
 ## Nukleotiide välja lõikav parandus (NER)
 
 ***=left
@@ -699,7 +680,6 @@ NER eemaldab DNA heeliksit rikkuvad modifikatsioonid.
 <img src="assets/img/NER.png">
 
 ---
-
 ## Xeroderma pigmentosum
 
 - Autosomaalne retsessiivne sündroom mida põdevaid inimesi iseloomustab äärmine fototundlikkus (intsidents 1:250000).
@@ -717,7 +697,6 @@ Wikimedia.
 </footer>
 
 ---
-
 ## XP, bypass (TLS) polümeraas ja vähk
 # XP-V põhjustavad mutatsioonid TLS DNA polümeraasis POLH (Pol-$\eta$).
 
@@ -730,7 +709,6 @@ Wikimedia.
 - Kopsu ja maokasvajates on POLH ekspressioon vähenenud.
 
 ---&twocol
-
 ## 6-4-fotoprodukti TLS
 # 6-4-fotoproduktidest läbisünteesi viib korrektselt, vigadeta läbi POLI
 
@@ -753,7 +731,6 @@ UV-B Radiation Induces Epithelial Tumors in Mice Lacking DNA Polymerase η and M
 </footer>
 
 ---&twocol
-
 ## BER defektid ja vähk
 
 ***=left
@@ -775,7 +752,6 @@ Haploinsufficiency in DNA Polymerase β Increases Cancer Risk.
 </footer>
 
 ---
-
 ## Melaniin kui päikesevari
 # Naha UV kaitse
 
@@ -792,7 +768,6 @@ Melano-phagolysosomes are organized into supranuclear "caps" within keratinocyte
 
 
 ---&twocol
-
 ## Glutatioon-S-transferaas (GST)
 
 ***=right
@@ -812,7 +787,6 @@ The role of glutathione-S-transferase in anti-cancer drug resistance.
 </footer>
 
 --- .segue .dark .nobackground
-
 ## Lingid teistele loengutele
 
 --- &twocol 
@@ -820,7 +794,7 @@ The role of glutathione-S-transferase in anti-cancer drug resistance.
 ***=left 
 
 - [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
-- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Vähitüübid](http://tpall.github.io/Vahityybid)
 - [Onkoviirused](http://tpall.github.io/Onkoviirused)
 - [Onkogeenid](http://tpall.github.io/Onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
