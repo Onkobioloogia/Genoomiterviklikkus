@@ -2,7 +2,7 @@
 title       : Genoomi terviklikkuse säilitamine ja vähiteke
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, TTÜ
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -346,8 +346,12 @@ Hsu et al., 2011.
 - Tüviraku sümmeetriline jagunemine võib põhjustada viimases S-faasis sünteesitud mutantse DNA jäämise tüviraku nišši.
 - Selline mutantne DNA omandab siis nn "surematu" staatuse.
 - Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
-- Hüpoteetiline? **super kartsinogeen** oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne.
+- Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png" style="width:100px" >
+
+<footer class="source">Pilt: benso[a]püreen. Wikipedia.
+</footer>
 ---
 
 ## Biokeemilised DNA reparatsioonimehhanismid

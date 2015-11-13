@@ -2,7 +2,7 @@
 title       : Genoomi terviklikkuse säilitamine ja vähiteke
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, TTÜ
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -338,7 +338,6 @@ Hsu et al., 2011.
 </footer>
 
 ---
-
 ## Mutantsete tüvirakkude teke läbi tsütotoksilisuse
 # Krooniline koekahjustumine võib istutada mutantse DNA tüviraku nišši
 
@@ -346,11 +345,19 @@ Hsu et al., 2011.
 - Tüviraku sümmeetriline jagunemine võib põhjustada viimases S-faasis sünteesitud mutantse DNA jäämise tüviraku nišši.
 - Selline mutantne DNA omandab siis nn "surematu" staatuse.
 - Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
-- Hüpoteetiline? **super kartsinogeen** oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne.
+- Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png" style="width:100px" >
+
+<footer class="source">Pilt: benso[a]püreen. Wikipedia.
+</footer>
+
+
+--- .segue .dark .nobackground
+## DNA reparatsioon
 
 ---
-
-## Biokeemilised DNA reparatsioonimehhanismid
+## Biokeemilised reparatsioonimehhanismid
 
 Lisaks raku ja koe tasemel toimivatele mehhanismidele, mis peaksid minimeerima muteerunud somaatilise DNA säilimise ja pärandumise ekisteerivad loomulikult ka biokeemilised DNA reparatsioonimehhanismid.
 
@@ -360,7 +367,6 @@ Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
 - **mutageensete ühendite poolt põhjustatud nukleotiidide muutused** (kiirgus, alkülatsioon).
 
 ---
-
 ## DNA replikatsiooni vead
 # Imetajate genoomis on 15 DNA polümeraasi. Mõned funktsioneerivad genoomi replikatsioonil, kuid enamus toimivad DNA kahjustuste parandamisel
 
@@ -369,7 +375,6 @@ Biokeemilised reparatsioonimehhanismid toimivad muutustele nagu:
 - Inimese genoomi replitseerimisel teeb see diploidses rakus oleva $6\times10^{9}$ aluspaari kohta  `r sprintf("%.0f",6*1e9*1e-5)` mutatsiooni.
 
 ---
-
 ## Hüpotees
 
 <div style="
@@ -380,7 +385,6 @@ Ilma genoomi korrashoiu mehhanismide lõhkumiseta oleks spontaanne raku mutatsio
 </div>
 
 ---
-
 ## Proofreading ja mismatch repair
 
 - Kui DNA Pol ($\alpha$, $\delta$, $\epsilon$) lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3'-5' eksonukleaasse aktiivsuse abil (**proofreading**)
