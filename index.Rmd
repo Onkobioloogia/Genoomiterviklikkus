@@ -83,15 +83,19 @@ background-color: #CBE7A5; /* ; ; */
 ---
 ## Epiteelirakkude regeneratsioon sooleepiteelis
 
-- Soole luumen sisaldab suures koguses toksiine ja baktereid.
-- Inimene kaotab umbes 10$^{11}$ epiteelirakku (~200 g) igapäevaselt.
-- Laborihiire soole krüptis asuvad tüvirakud jagunevad elu jooksul umbes 1000 korda ilma jagunemispotentsiaali kaotamata ja kartsinogeensed mutatsioonid on harv nähtus.
-- Sooleepiteeli regeneerivad **tüvirakud** ja **transitoorselt paljunevad rakud** (*transit-amplifying, TA*).
-- Tüvirakud moodustavad 0.1-1% koe rakkudest.
-- Epiteelkoe rakud diferentseeruvad transitoorselt paljunevatest rakkudest.
-- Erütrotsüütide eluiga on ~120 päeva, mille järel nad põrnas endotsüteeritakse.
-- Käärsoole epiteeli eluiga on 5-7 päeva kui nad surevad.
-- Naha keratinotsüüdid surevad 20-30 päeva jooksul.
+- Soole luumen sisaldab suures koguses toksiine ja baktereid
+- Inimene kaotab umbes 10$^{11}$ epiteelirakku (~200 g) igapäevaselt
+- Laborihiire soole krüptis asuvad tüvirakud jagunevad elu jooksul umbes 1000 korda ilma jagunemispotentsiaali kaotamata ja kartsinogeensed mutatsioonid on harv nähtus
+- Sooleepiteeli regeneerivad **tüvirakud** ja **transitoorselt paljunevad rakud** (*transit-amplifying, TA*)
+- Tüvirakud moodustavad 0.1-1% koe rakkudest
+- Epiteelkoe rakud diferentseeruvad transitoorselt paljunevatest rakkudest
+- Käärsoole epiteeli eluiga on 5-7 päeva kui nad surevad
+
+---
+## Regeneratsioon teistes kudedes
+
+- Naha keratinotsüüdid surevad 20-30 päeva jooksul
+- Erütrotsüütide eluiga on ~120 päeva, mille järel nad põrnas endotsüteeritakse
 
 ---&twocol
 ## Epiteeli struktuur minimeerib geenikahjustusi
@@ -99,9 +103,9 @@ background-color: #CBE7A5; /* ; ; */
 
 ***=left
 
-- Koes kõige seespool asub tüvirakunišš.
-- Krüpti põhjas asuvad 5 tüvirakku on soole sisu eest kaitstud tingituna oma asukohast ja lima poolt. 
-- TA rakud jagunevad 2-3 korda ja diferentseeruvad.
+- Koes kõige seespool asub tüvirakunišš
+- Krüpti põhjas asuvad 5 tüvirakku on soole sisu eest kaitstud tingituna oma asukohast ja mukoosa poolt
+- TA rakud jagunevad 2-3 korda ja diferentseeruvad
 
 ***=right
 
@@ -137,20 +141,20 @@ Muc2−/− | |
 <a href="http://www.sciencemag.org/content/295/5560/1726.full">
 Colorectal Cancer in Mice Genetically Deficient in the Mucin Muc2.
 </a>
-Pilt:
+Pilt: Increased lymphocyte infiltration and expression of inflammatory cytokines. Representative sections presenting lymphocyte infiltration into the colon of (A) Muc2+/+ and (B and C) Muc2−/− animals, detected using an anti-CD3 antibody. In the Muc2−/− mice, there was an increase of lymphocyte infiltration in parts of the colon where there was loss of epithelial cells (B). Parts of the colon that were unaffected (C) were comparable to sections of the Muc2+/+ mice.
 <a href="http://www.gastrojournal.org/article/S0016-5085(06)00762-1/fulltext">
 Van der Sluis et al., 2006.
-</a>
+</a> 
 </footer>
 
 ---
 ## Tüvirakud on mutageneesi märklauad
 # Pikaealised rakud kontributeerivad vähi tekkesse
 
-- DMBA/TPA naha kartsinogeneesi mudeliga tekkinud papilloomid ja adenoomid pärinevad pigem vaikeolekus rakkudest (naha tüvirakud?) kui aktiivselt jagunevatest.
+- DMBA/TPA naha kartsinogeneesi mudeliga tekkinud papilloomid ja adenoomid pärinevad pigem vaikeolekus rakkudest (naha tüvirakud?) kui aktiivselt jagunevatest
     - 5-FU (*fluorouracil*) mis inhibeerib aktiivselt jagunevaid rakke ei vähendanud oluliselt papilloomide teket, [Morris et al., 1997](http://cancerres.aacrjournals.org/content/57/16/3436.full.pdf).
-- CML-i põhjustav __*Philadelphia* kromosoom__ (Ph$^1$, BRC-ABL translokatsioon) on olemas kõigis lümfoid ja müeloid raja rakkudes. 
-    - See viitab, et mutatsioon on tekkinud **pluripotentses** tüvirakus.
+- CML-i BRC-ABL t(9;22)(q34;q11) translokatsioon ehk __*Philadelphia* kromosoom__ on olemas kõigis lümfoid ja müeloid raja rakkudes
+    - See viitab, et mutatsioon on tekkinud **pluripotentses** tüvirakus
 
 <img src="http://www.cell.com/cms/attachment/593400/4586019/gr1.jpg" style="width:300px" >
 
@@ -169,10 +173,10 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 
 ***=pnotes
 
-- Asymmetric cell division: each stem cell generates one daughter stem cell and one daughter destined to differentiate. 
-- **Population strategies**. A population strategy provides dynamic control over the balance between stem cells and differentiated cells — a capacity that is necessary for repair after injury or disease. In this scheme, stem cells are defined by their 'potential' to generate both stem cells and differentiated daughters, rather than their actual production of a stem cell and a differentiated cell at each division. 
-- c, Symmetric cell division: each stem cell can divide symmetrically to generate either two daughter stem cells or two differentiated cells. 
-- d, Combination of cell divisions: each stem cell can divide either symmetrically or asymmetrically.
+- Asymmetric cell division: each stem cell generates one daughter stem cell and one daughter destined to differentiate
+- **Population strategies**. A population strategy provides dynamic control over the balance between stem cells and differentiated cells — a capacity that is necessary for repair after injury or disease. In this scheme, stem cells are defined by their 'potential' to generate both stem cells and differentiated daughters, rather than their actual production of a stem cell and a differentiated cell at each division
+- c, Symmetric cell division: each stem cell can divide symmetrically to generate either two daughter stem cells or two differentiated cells
+- d, Combination of cell divisions: each stem cell can divide either symmetrically or asymmetrically
 
 ---
 ## DNA kahjustuste vältimise strateegiad tüvirakkudes
@@ -345,7 +349,8 @@ Hsu et al., 2011.
 ![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
 
 
-<footer class="source">Variation in cancer risk among tissues can be explained by the number of stem cell divisions
+<footer class="source">Why do some tissues give rise to cancer in humans a million times more frequently than others? These differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, you can find a strong correlation. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this “bad luck” component explains a far greater number of cancers than do hereditary and environmental factors.
+Pilt: Variation in cancer risk among tissues can be explained by the number of stem cell divisions
 Science 2 January 2015: 
 vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full) 
 
