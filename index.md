@@ -678,7 +678,7 @@ Parem, [The boiling issue](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring
 
 ***=left
 
-- Vähirakkudes tekib DSB (*double starnd break*)-le tugev vastus, mis põhjustab reparatsioonivalkude akumuleerumise kromatiinile.
+- Vähirakkudes tekib DSB (*double strand break*)-le tugev vastus, mis põhjustab reparatsioonivalkude akumuleerumise kromatiinile.
 - Reparatsiooniensüümide ekspressiooni reguleerivad onkogeenid, pidev replikatsioonikahvlite initsatsioon ja põrkumine.
 - Replikatsioonikahvlite toppamine tõstab DSB riski ja tagajärjeks on katkestuste kasv.
 
