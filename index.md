@@ -693,7 +693,7 @@ wikimedia.
 </footer>
 
 ---
-# Replikatsioonikahvli arresteerumine kahjustatud kaluste juures põhjustab genoomi ebastabiilsust
+# Replikatsioonikahvli arresteerumine kahjustatud aluste juures põhjustab genoomi ebastabiilsust
 
 ![dämmits](http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg)
 
