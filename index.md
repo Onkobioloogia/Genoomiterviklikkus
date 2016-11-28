@@ -593,6 +593,12 @@ Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6
 </footer>
 
 ---
+## UV-kahjustatud alused parandatakse valeks
+
+![cpd](https://www.researchgate.net/publication/7984856/figure/fig1/AS:298970527092745@1448291536732/Fig-2-Mechanisms-of-UV-mutagenesis-at-a-cyclobutane-pyrimidine-dimer-CPD-The.png)
+
+
+---
 ## Prokartsinogeen + CYP = ülikartsinogeen
 # DNA-d alküleerivad ühendid aktiveeritakse CYP-id poolt
 
