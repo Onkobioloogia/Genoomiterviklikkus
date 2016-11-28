@@ -877,15 +877,12 @@ The role of glutathione-S-transferase in anti-cancer drug resistance.
 
 ***=left 
 
-- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
-- [Vähitüübid](http://tpall.github.io/Vahityybid)
-- [Onkoviirused](http://tpall.github.io/Onkoviirused)
-- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Sissejuhatav loeng](http://tpall.github.io/onkobioloogia)
+- [Viirused ja onkogeenid](http://tpall.github.io/viirused-ja-onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
 - [Signaalirajad](http://tpall.github.io/Signaalirajad)
 - [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
 - [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
-
 
 ***=right 
 
