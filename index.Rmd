@@ -553,7 +553,7 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 - UV-B kiirgus kui kõige suurema energiaga päikesevalguse komponent võib viia kolme põhilise  DNA kahjustuse tekkeni:
 - tsüklobutaan pürimidiin dimeerid (CPD) 
-- Pürimidiin 6-4 pürimidoon fotoprodukt (6-4PP) ja selle Dewar isomeer
+- Pürimidiin 6-4 pürimidoon fotoprodukt (6-4PP)
 
 ![UVdamage](https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_JNA2010-592980.002.png?keywords=2)
 
