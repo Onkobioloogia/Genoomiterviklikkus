@@ -178,19 +178,6 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 - d, Combination of cell divisions: each stem cell can divide either symmetrically or asymmetrically
 
 ---
-## Vähiteke on seotud tüvirakkude jagunemisega
-
-![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
-
-
-<footer class="source">Why do some tissues give rise to cancer in humans a million times more frequently than others? These differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, you can find a strong correlation. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this “bad luck” component explains a far greater number of cancers than do hereditary and environmental factors.
-Pilt: Variation in cancer risk among tissues can be explained by the number of stem cell divisions
-Science 2 January 2015: 
-vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full) 
-
-</footer>
-
----
 ## Tüviraku nišš ei jagune intensiivselt
 # Somaatilised tüvirakud ei märgistu hästi DNA-sse lülituvate ühenditega, välja arvatud tekkimisel ja koe kahjustuste korral.
 
@@ -355,9 +342,24 @@ Richard Robinson, 2007.
 - Värskelt sünteesitud DNA on "mitte-konserveerunud".
 - [Cairnsi hüpotees, 1975](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html): replitseerunud tüviraku matriits DNA segregeerub tüvirakust tütarrakule ja uuesti sünteesitud ahelat sisaldav DNA pärandub transitoorselt prolifereeruvale tütarrakule.
 
+
+---
+## Vähiteke on seotud tüvirakkude jagunemisega
+Random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development
+
+![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
+
+
+<footer class="source">Why do some tissues give rise to cancer in humans a million times more frequently than others? These differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, you can find a strong correlation. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this “bad luck” component explains a far greater number of cancers than do hereditary and environmental factors.
+Pilt: Variation in cancer risk among tissues can be explained by the number of stem cell divisions
+Science 2 January 2015: 
+vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full) 
+
+</footer>
+
+
 --- .segue .dark .nobackground
 ## DNA reparatsioon
-
 
 ---
 ## Genoomse DNA mutatsioonid
