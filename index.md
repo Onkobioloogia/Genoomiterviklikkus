@@ -426,11 +426,11 @@ Albertson et al., 2009.
 
 **Pärmi *S. pombe* mudelis tõstis inimese POLD1 S478N mutatsiooni analoog tugevalt mutatsioonisagedust**.
 
-Muutus |  Mutatsioonisagedus ($\times10^{9}$)| Tõus	(mutant/wild type)
+Muutus |  Mutatsiooni-<br> sagedus ($\times10^{9}$)| Tõus<br>	(mutant/wild type)
 -------|-------------------------------------|-------------------------
-C462N | 72 (9.6) | 12
-C462S	| 4.2 (2.1)	| 0.7
-Wild type	| 6.0 (4.2)	| 1
+C462N | 72 | 12
+C462S	| 4.2	| 0.7
+Wild type	| 6.0	| 1
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/ng/journal/v45/n2/full/ng.2503.html">
