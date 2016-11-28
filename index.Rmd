@@ -265,8 +265,8 @@ Zaman et al., 1994.
 
 <footer class="source">Pilt: 
 <a href="http://www.rcsb.org/pdb/101/motm.do?momID=123">
-P-glycoprotein (sinine) ja vähiteraapia kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) ja blokeerivad selle toimimise.  
-</a> Wikipedia: 
+P-glycoprotein (sinine) ja vähiteraapia.  
+</a> Kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) oleks võimalik blokeerivad Pgp toimimine. Wikipedia: 
 <a href="http://en.wikipedia.org/wiki/P-glycoprotein">
 P-gp wiki.
 </a>
