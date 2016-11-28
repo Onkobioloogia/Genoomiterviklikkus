@@ -81,6 +81,17 @@ background-color: #CBE7A5; /* ; ; */
 ## Tüvirakud on mutageneesi märklauad
 
 ---
+## Tüvirakud on mutageneesi märklauad
+# Pikaealised rakud kontributeerivad vähi tekkesse
+
+- DMBA/TPA naha kartsinogeneesi mudeliga tekkinud papilloomid ja adenoomid pärinevad pigem vaikeolekus rakkudest (naha tüvirakud?) kui aktiivselt jagunevatest
+    - 5-FU (*fluorouracil*) mis inhibeerib aktiivselt jagunevaid rakke ei vähendanud oluliselt papilloomide teket, [Morris et al., 1997](http://cancerres.aacrjournals.org/content/57/16/3436.full.pdf).
+- CML-i BRC-ABL t(9;22)(q34;q11) translokatsioon ehk __*Philadelphia* kromosoom__ on olemas kõigis lümfoid ja müeloid raja rakkudes
+    - See viitab, et mutatsioon on tekkinud **pluripotentses** tüvirakus
+
+<img src="http://www.cell.com/cms/attachment/593400/4586019/gr1.jpg" style="width:300px" >
+
+---
 ## Epiteelirakkude regeneratsioon sooleepiteelis
 
 - Soole luumen sisaldab suures koguses toksiine ja baktereid
@@ -148,18 +159,6 @@ Van der Sluis et al., 2006.
 </footer>
 
 ---
-## Tüvirakud on mutageneesi märklauad
-# Pikaealised rakud kontributeerivad vähi tekkesse
-
-- DMBA/TPA naha kartsinogeneesi mudeliga tekkinud papilloomid ja adenoomid pärinevad pigem vaikeolekus rakkudest (naha tüvirakud?) kui aktiivselt jagunevatest
-    - 5-FU (*fluorouracil*) mis inhibeerib aktiivselt jagunevaid rakke ei vähendanud oluliselt papilloomide teket, [Morris et al., 1997](http://cancerres.aacrjournals.org/content/57/16/3436.full.pdf).
-- CML-i BRC-ABL t(9;22)(q34;q11) translokatsioon ehk __*Philadelphia* kromosoom__ on olemas kõigis lümfoid ja müeloid raja rakkudes
-    - See viitab, et mutatsioon on tekkinud **pluripotentses** tüvirakus
-
-<img src="http://www.cell.com/cms/attachment/593400/4586019/gr1.jpg" style="width:300px" >
-
-
----
 ## Tüvirakkude strateegiad
 # Sümmeetriline ja asümmeetriline jagunemine
 
@@ -218,11 +217,11 @@ Zaman et al., 1994.
 ## P-glükovalgu struktuur
 # *P-glycoprotein/MDR1*
 
-<img src="http://www.rcsb.org/pdb/education_discussion/molecule_of_the_month/images/3g61_composite.jpg" style="width:400px">
+<img src="https://cdn.rcsb.org/pdb101/motm/images/3g61_1bln.jpg" style="width:400px">
 
 <footer class="source">Pilt: 
 <a href="http://www.rcsb.org/pdb/101/motm.do?momID=123">
-P-glycoprotein. 
+P-glycoprotein (sinine) ja vähiteraapia kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) ja blokeerivad selle toimimise.  
 </a> Wikipedia: 
 <a href="http://en.wikipedia.org/wiki/P-glycoprotein">
 P-gp wiki.
@@ -566,7 +565,11 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 ***=right
 
-![cpd](http://www.cs.stedwards.edu/chem/Chemistry/CHEM43/CHEM43/Photocarcino/dimerization2.jpg)
+![cpd](http://pubs.acs.org/cen/img/83/i02/8302scit1a.gif)
+
+<footer class="source">Pilt: [Light Shed On Photolyases](http://pubs.acs.org/cen/news/83/i01/8301earlysci1.html).
+Sunlight can dimerize neighboring thymidines in DNA (left) to give dangerous cyclobutane pyrimidine dimers (right). DNA photolyase repairs this damage.
+</footer>
 
 ---
 ## Pürimidiin(6-4)pürimidoon fotoprodukt
