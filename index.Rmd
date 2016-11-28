@@ -178,6 +178,63 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 - d, Combination of cell divisions: each stem cell can divide either symmetrically or asymmetrically
 
 ---
+## Vähiteke on seotud tüvirakkude jagunemisega
+
+![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
+
+
+<footer class="source">Why do some tissues give rise to cancer in humans a million times more frequently than others? These differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, you can find a strong correlation. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this “bad luck” component explains a far greater number of cancers than do hereditary and environmental factors.
+Pilt: Variation in cancer risk among tissues can be explained by the number of stem cell divisions
+Science 2 January 2015: 
+vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full) 
+
+</footer>
+
+---
+## Tüviraku nišš ei jagune intensiivselt
+# Somaatilised tüvirakud ei märgistu hästi DNA-sse lülituvate ühenditega, välja arvatud tekkimisel ja koe kahjustuste korral.
+
+- Somaatilised tüvirakud säilitavad oma tekkimisel DNA-sse lülitatud märgise (3H-tümidiin) väga pika-aegselt.
+- Lühiajaline kudede inkubeerimine 3H-tümidiiniga märgistab ainult transitoorselt jagunevad rakud ning koe uuenedes märgis kaob ruttu.
+- Hiirtel puberteedis rinnanäärme tüvirakkude nišši moodustumisel sisse viidud 3H-tümidiin jääb aga sinna pidama sest tüvirakud jagunevad veel sümmeetriliselt (tekib kaks tüvirakku).
+
+![lrcmod](assets/img/LRCmod.jpg.png)
+
+<footer class="source">Pilt: 
+<a href="http://dev.biologists.org/content/132/4/681.long">
+Smith, 2005.
+</a>
+</footer>
+
+---
+## Konserveerunud DNA-d sisaldavad rakud karvanääpsus
+
+_**Label-retaining cells**_ eksperimentaalselt defineeritud rakupopulatsioon,  mis säilitavad DNA-sse lülitatud märgise (nt. BrdU) ja mis peaksid olema aeglaselt jagunevad tüvirakud.
+
+<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/bin/nihms264176f2.jpg" style="width:300px">
+
+<footer class="source">Pilt: 
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/">
+Hsu et al., 2011.
+</a>
+</footer>
+
+---
+## Mutantsete tüvirakkude teke läbi tsütotoksilisuse
+# Krooniline koekahjustumine võib istutada mutantse DNA tüviraku nišši
+
+- Kartsinogeenid võivad toimida läbi koekahjustuse, kui kahjustada saavad ka tüvirakud.
+- Tüviraku sümmeetriline jagunemine võib põhjustada viimases S-faasis sünteesitud mutantse DNA jäämise tüviraku nišši.
+- Selline mutantne DNA omandab siis nn "surematu" staatuse.
+- Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
+- Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png" style="width:100px" >
+
+<footer class="source">Pilt: Benzo(a)pyrene. Wikipedia.
+</footer>
+
+---
 ## DNA kahjustuste vältimise strateegiad tüvirakkudes
 
 Lisaks tüvirakkude suhteliselt **aeglasemale jagunemisele** ja nende **asumisele anatoomiliselt kaitstud kohtades**, toimib veel mitu teist mehhanismi:
@@ -297,63 +354,6 @@ Richard Robinson, 2007.
 - DNA ahelad mida replikatsiooni käigus ei sünteesitud on nn. "konserveerunud" matriits ahelad.
 - Värskelt sünteesitud DNA on "mitte-konserveerunud".
 - [Cairnsi hüpotees, 1975](http://www.nature.com/nature/journal/v255/n5505/abs/255197a0.html): replitseerunud tüviraku matriits DNA segregeerub tüvirakust tütarrakule ja uuesti sünteesitud ahelat sisaldav DNA pärandub transitoorselt prolifereeruvale tütarrakule.
-
----
-## Tüviraku nišš ei jagune intensiivselt
-# Somaatilised tüvirakud ei märgistu hästi DNA-sse lülituvate ühenditega, välja arvatud tekkimisel ja koe kahjustuste korral.
-
-- Somaatilised tüvirakud säilitavad oma tekkimisel DNA-sse lülitatud märgise (3H-tümidiin) väga pika-aegselt.
-- Lühiajaline kudede inkubeerimine 3H-tümidiiniga märgistab ainult transitoorselt jagunevad rakud ning koe uuenedes märgis kaob ruttu.
-- Hiirtel puberteedis rinnanäärme tüvirakkude nišši moodustumisel sisse viidud 3H-tümidiin jääb aga sinna pidama sest tüvirakud jagunevad veel sümmeetriliselt (tekib kaks tüvirakku).
-
-![lrcmod](assets/img/LRCmod.jpg.png)
-
-<footer class="source">Pilt: 
-<a href="http://dev.biologists.org/content/132/4/681.long">
-Smith, 2005.
-</a>
-</footer>
-
----
-## Konserveerunud DNA-d sisaldavad rakud karvanääpsus
-
-_**Label-retaining cells**_ eksperimentaalselt defineeritud rakupopulatsioon,  mis säilitavad DNA-sse lülitatud märgise (nt. BrdU) ja mis peaksid olema aeglaselt jagunevad tüvirakud.
-
-<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/bin/nihms264176f2.jpg" style="width:300px">
-
-<footer class="source">Pilt: 
-<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/">
-Hsu et al., 2011.
-</a>
-</footer>
-
----
-## Mutantsete tüvirakkude teke läbi tsütotoksilisuse
-# Krooniline koekahjustumine võib istutada mutantse DNA tüviraku nišši
-
-- Kartsinogeenid võivad toimida läbi koekahjustuse, kui kahjustada saavad ka tüvirakud.
-- Tüviraku sümmeetriline jagunemine võib põhjustada viimases S-faasis sünteesitud mutantse DNA jäämise tüviraku nišši.
-- Selline mutantne DNA omandab siis nn "surematu" staatuse.
-- Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
-- Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png" style="width:100px" >
-
-<footer class="source">Pilt: Benzo(a)pyrene. Wikipedia.
-</footer>
-
----
-## Vähiteke on seotud tüvirakkude jagunemisega
-
-![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
-
-
-<footer class="source">Why do some tissues give rise to cancer in humans a million times more frequently than others? These differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, you can find a strong correlation. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this “bad luck” component explains a far greater number of cancers than do hereditary and environmental factors.
-Pilt: Variation in cancer risk among tissues can be explained by the number of stem cell divisions
-Science 2 January 2015: 
-vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full) 
-
-</footer>
 
 --- .segue .dark .nobackground
 ## DNA reparatsioon
