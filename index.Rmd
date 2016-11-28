@@ -598,6 +598,12 @@ Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6
 ![cpd](https://www.researchgate.net/publication/7984856/figure/fig1/AS:298970527092745@1448291536732/Fig-2-Mechanisms-of-UV-mutagenesis-at-a-cyclobutane-pyrimidine-dimer-CPD-The.png)
 
 
+<footer class="source">
+Article in Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis 571(1-2):19-31 · May 2005
+DOI: 10.1016/j.mrfmmm.2004.06.057.
+</footer>
+
+
 ---
 ## Prokartsinogeen + CYP = ülikartsinogeen
 # DNA-d alküleerivad ühendid aktiveeritakse CYP-id poolt
