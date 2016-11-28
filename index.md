@@ -706,11 +706,11 @@ Parem, [The boiling issue](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring
 
 ***=right
 
-<img src="http://upload.wikimedia.org/wikipedia/en/6/6c/Interaction_of_XRCC4_in_NHEJ.jpg" style="width:400px">
+<img src="http://www.cell.com/cms/attachment/2062208461/2063785139/fx1.jpg" style="width:400px">
 
 <footer class="source">Pilt: 
-<a href="http://upload.wikimedia.org/wikipedia/en/6/6c/Interaction_of_XRCC4_in_NHEJ.jpg">
-wikimedia.
+<a href="http://www.cell.com/molecular-cell/abstract/S1097-2765(15)00944-2">
+Cell.
 </a>
 </footer>
 
