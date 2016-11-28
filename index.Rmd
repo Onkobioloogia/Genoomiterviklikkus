@@ -842,10 +842,10 @@ Haploinsufficiency in DNA Polymerase β Increases Cancer Risk.
 - Melanotsüüdid nahas sisaldavad melanosoome, mis kanduvad edasi keratinotsüütidesse.
 - Melanosoomid moodustavad keratinotsüütides supranukleaarseid mütsikesi.
 
-![parasols](http://www.nature.com/jid/journal/v121/n4/images/5601970f1.gif)
+![parasols](http://ars.els-cdn.com/content/image/1-s2.0-S0022202X15304528-gr1.jpg)
 
 <footer class="source">Pilt: 
-<a href="http://www.nature.com/jid/journal/v121/n4/full/5601970a.html">
+<a href="http://ars.els-cdn.com/content/image/1-s2.0-S0022202X15304528-gr1.jpg">
 Melano-phagolysosomes are organized into supranuclear "caps" within keratinocytes.
 </a>
 </footer>
