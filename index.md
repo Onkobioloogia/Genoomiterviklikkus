@@ -236,7 +236,7 @@ Lisaks tüvirakkude suhteliselt **aeglasemale jagunemisele** ja nende **asumisel
 
 ***=left
 
-- **MRP** (*MDR associated protein*) geeni transfektsioon SW-1573 inimese kopsu kartsinoomi rakkudesse muutis need rakud ravimiresistentseks.
+- **MRP** (*MDR associated protein*) geeni transfektsioon SW-1573 inimese kopsu kartsinoomi rakkudesse muutis need rakud ravimiresistentseks (kõrvalolev tabel).
 - **ABC transporterid** on raku plasmamembraani ATP sõltuvad transpordivalgud, mis liigutavad rakust välja väga erinevaid substraate sh. toksiine.
 
 ***=right
