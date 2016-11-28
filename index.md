@@ -448,7 +448,7 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 
 ***=right
 
-![mmr](http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg)
+<img src="http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg" style="width:420px">
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409#">
