@@ -441,7 +441,12 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 ---&twocol
 ## MMR ja mikrosatelliitide ebastabiilsus
 
-Mononukleotiidsed kordusjärjestused ehk **mikrosatelliidid** on eriti avatud replikatsioonivigadele mis on tingitud *mismatch repair* funktsiooni kadumise tõttu.
+***=left
+- Mononukleotiidsed kordusjärjestused ehk **mikrosatelliidid** on eriti avatud replikatsioonivigadele mis on tingitud *mismatch repair* funktsiooni kadumise tõttu.
+
+- Mutations in the poly(A)10 tract of the transforming growth factor beta type 2 receptor (TGFBR2) gene are observed in over 90% of MMR deficient colorectal tumours (Markowitz et al., 1995).
+
+***=right
 
 ![mmr](http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg)
 
