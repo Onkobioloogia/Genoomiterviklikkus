@@ -68,6 +68,11 @@ background-color: #CBE7A5; /* ; ; */
 --- .segue .dark .nobackground
 ## Recap
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = 'center', out.width = '50%')
+```
+
+
 ---
 ## Tumorigenees
 
@@ -75,7 +80,9 @@ background-color: #CBE7A5; /* ; ; */
 - Kasvaja progressioon põhineb rakkudes akumuleeruvatel juhuslikel geneetilistel või epigeneetilistel mutatsioonidel rakkude jagunemist ja ellujäämist reguleerivates geenides.
 - Mutatsioonid, mis annavad tulevasele vähirakule selektiivse eelise nimetatakse juht- või draivermutatsioonideks (*driver*).
 
-![hnscc](assets/img/CRCstages.jpg)
+```{r}
+knitr::include_graphics("assets/img/CRCstages.jpg")
+```
 
 --- .segue .dark .nobackground
 ## Tüvirakud on mutageneesi märklauad
@@ -89,7 +96,9 @@ background-color: #CBE7A5; /* ; ; */
 - CML-i BRC-ABL t(9;22)(q34;q11) translokatsioon ehk __*Philadelphia* kromosoom__ on olemas kõigis lümfoid ja müeloid raja rakkudes
     - See viitab, et mutatsioon on tekkinud **pluripotentses** tüvirakus
 
-<img src="http://www.cell.com/cms/attachment/593400/4586019/gr1.jpg" style="width:300px" >
+```{r}
+knitr::include_graphics("http://www.cell.com/cms/attachment/593400/4586019/gr1.jpg")
+```
 
 ---
 ## Epiteelirakkude regeneratsioon sooleepiteelis
@@ -120,7 +129,7 @@ background-color: #CBE7A5; /* ; ; */
 
 ***=right
 
-<img src="http://www.nature.com/nrm/journal/v15/n1/images_article/nrm3721-f1.jpg" style="width:460px")>
+<img src="http://www.nature.com/nrm/journal/v15/n1/images_article/nrm3721-f1.jpg" )>
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/nrm/journal/v15/n1/full/nrm3721.html">
@@ -145,7 +154,9 @@ Muc2−/− | |
 
 ***=left
 
-<img src="http://www.gastrojournal.org/cms/attachment/2011260790/2033728947/gr5.jpg" style="width:350px">
+```{r}
+knitr::include_graphics("http://www.gastrojournal.org/cms/attachment/2011260790/2033728947/gr5.jpg")
+```
 
 
 <footer class="source">Allikas: 
@@ -162,7 +173,9 @@ Van der Sluis et al., 2006.
 ## Tüvirakkude strateegiad
 # Sümmeetriline ja asümmeetriline jagunemine
 
-![sc](http://www.nature.com/nature/journal/v441/n7097/images/nature04956-f1.2.jpg)
+```{r}
+knitr::include_graphics("http://www.nature.com/nature/journal/v441/n7097/images/nature04956-f1.2.jpg")
+```
 
 <footer class="source">Allikas: 
 <a href="http://www.nature.com/nature/journal/v441/n7097/full/nature04956.html">
@@ -185,7 +198,9 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 - Lühiajaline kudede inkubeerimine 3H-tümidiiniga märgistab ainult transitoorselt jagunevad rakud ning koe uuenedes märgis kaob ruttu.
 - Hiirtel puberteedis rinnanäärme tüvirakkude nišši moodustumisel sisse viidud 3H-tümidiin jääb aga sinna pidama sest tüvirakud jagunevad veel sümmeetriliselt (tekib kaks tüvirakku).
 
-![lrcmod](assets/img/LRCmod.jpg.png)
+```{r}
+knitr::include_graphics("assets/img/LRCmod.jpg.png")
+```
 
 <footer class="source">Pilt: 
 <a href="http://dev.biologists.org/content/132/4/681.long">
@@ -198,7 +213,9 @@ Smith, 2005.
 
 _**Label-retaining cells**_ eksperimentaalselt defineeritud rakupopulatsioon,  mis säilitavad DNA-sse lülitatud märgise (nt. BrdU) ja mis peaksid olema aeglaselt jagunevad tüvirakud.
 
-<img src="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/bin/nihms264176f2.jpg" style="width:300px">
+```{r}
+knitr::include_graphics("http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/bin/nihms264176f2.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/">
@@ -216,7 +233,9 @@ Hsu et al., 2011.
 - Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
 - Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png" style="width:100px" >
+```{r}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png")
+```
 
 <footer class="source">Pilt: Benzo(a)pyrene. Wikipedia.
 </footer>
@@ -261,7 +280,9 @@ Zaman et al., 1994.
 ## P-glükovalgu struktuur
 # *P-glycoprotein/MDR1*
 
-<img src="https://cdn.rcsb.org/pdb101/motm/images/3g61_1bln.jpg" style="width:400px">
+```{r}
+knitr::include_graphics("https://cdn.rcsb.org/pdb101/motm/images/3g61_1bln.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.rcsb.org/pdb/101/motm.do?momID=123">
@@ -315,7 +336,9 @@ Cancer cells in metastatic cancers are often particularly difficult to treat bec
 
 ***=left
 
-![](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1852587/bin/pbio.0050125.g001.jpg)
+```{r}
+knitr::include_graphics("http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1852587/bin/pbio.0050125.g001.jpg")
+```
 
 ***=right
 
@@ -334,7 +357,9 @@ Richard Robinson, 2007.
 
 ***=right
 
-![](http://jcs.biologists.org/content/115/11/2381/F1.large.jpg)
+```{r}
+knitr::include_graphics("http://jcs.biologists.org/content/115/11/2381/F1.large.jpg")
+```
 
 ***=left
 
@@ -347,7 +372,9 @@ Richard Robinson, 2007.
 ## Vähiteke on seotud tüvirakkude jagunemisega
 Random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development
 
-![tomasetti](https://www.sciencemag.org/content/347/6217/78/F1.large.jpg)
+```{r}
+knitr::include_graphics("https://www.sciencemag.org/content/347/6217/78/F1.large.jpg")
+```
 
 
 <footer class="source">Why do some tissues give rise to cancer in humans a million times more frequently than others? These differences can be explained by the number of stem cell divisions. By plotting the lifetime incidence of various cancers against the estimated number of normal stem cell divisions in the corresponding tissues over a lifetime, you can find a strong correlation. This suggests that random errors occurring during DNA replication in normal stem cells are a major contributing factor in cancer development. Remarkably, this “bad luck” component explains a far greater number of cancers than do hereditary and environmental factors.
@@ -384,7 +411,9 @@ vol. 347 no. 6217 [78-81](https://www.sciencemag.org/content/347/6217/78.full)
 - Proofreadingu tasemel eemaldatakse 99% vigu, sellest läbi lipsanud vead parandab **mismatch repair** mehhanism.
 - Koos proofreadingu ja MMR mehhanismiga on totaalne vigade sagedus replikatsioonil $10^{-9}$.
 
-<img src="http://www.nature.com/ng/journal/v45/n2/images/ng.2540-F1.jpg" style="width:300px" >
+```{r}
+knitr::include_graphics("http://www.nature.com/ng/journal/v45/n2/images/ng.2540-F1.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/ng/journal/v45/n2/full/ng.2540.html">
@@ -405,7 +434,9 @@ Seshagiri, 2013.
 
 ***=right
 
-![](http://www.pnas.org/content/106/40/17101/F1.medium.gif)
+```{r}
+knitr::include_graphics("http://www.pnas.org/content/106/40/17101/F1.medium.gif")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.pnas.org/content/106/40/17101.full">
@@ -448,7 +479,9 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 
 ***=right
 
-<img src="http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg" style="width:420px">
+```{r}
+knitr::include_graphics("http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/scitable/topicpage/dna-replication-and-causes-of-mutation-409#">
@@ -470,7 +503,9 @@ DNA Replication and Causes of Mutation.
 
 MSI ebastabiilsus patsiendil kellel on nii soolevähk (C) kui rinnavähk (B).
 
-<img src="http://cancerres.aacrjournals.org/content/62/4/1014/F1.medium.gif" style="height:300px">
+```{r}
+knitr::include_graphics("http://cancerres.aacrjournals.org/content/62/4/1014/F1.medium.gif")
+```
 
 <footer class="source">Pilt: 
 <a href="http://cancerres.aacrjournals.org/content/62/4/1014.full">
@@ -490,7 +525,9 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 
 ***=right
 
-![mmr](assets/img/MMR.png)
+```{r}
+knitr::include_graphics("assets/img/MMR.png")
+```
 
 ---
 ## DNA-d kahjustavad endogeensed biokeemilised protsessid
@@ -506,7 +543,9 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 - **Depürimideerumine** toimub kuni 100 korda väiksema sagedusega (500 päevas).
 - Stabiilselt on inimese rakus genoomi kohta 4000-15000 alusevaba nukleotiidi.
 
-![puristamine](http://o.quizlet.com/0Zsi0iTSRfx1g7hVmFp.xQ.jpg)
+```{r}
+knitr::include_graphics("http://o.quizlet.com/0Zsi0iTSRfx1g7hVmFp.xQ.jpg")
+```
 
 ---&twocol
 ## Deaminatsioon
@@ -522,14 +561,18 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 
 ***=left
 
-<img src="assets/img/Deamination of Bases.JPG" style="width:400px">
+```{r}
+knitr::include_graphics("assets/img/Deamination of Bases.JPG")
+```
 
 ---
 ## DNA oksüdeerimine
 
 Mitokondriaalset või peroksüsomaalset päritolu hapniku radikaalid põhjustavad DNA aluste oksüdatsiooni. Tekib terve rida reaktsiooniprodukte.
 
-<img src="http://www.fasebj.org/content/17/10/1195/F1.large.jpg" style="width:500px">
+```{r}
+knitr::include_graphics("http://www.fasebj.org/content/17/10/1195/F1.large.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.fasebj.org/content/17/10/1195.full">
@@ -540,7 +583,9 @@ DNA base products of interaction with reactive oxygen and free radical species.
 ---
 ## DNA oksüdatsioon on seotud aeroobse metabolismiga
 
-<img src="assets/img/oxidation.png" style="width:400px">
+```{r}
+knitr::include_graphics("assets/img/oxidation.png")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.pnas.org/content/85/8/2706.long">
@@ -555,7 +600,9 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 - tsüklobutaan pürimidiin dimeerid (CPD) 
 - Pürimidiin 6-4 pürimidoon fotoprodukt (6-4PP)
 
-![UVdamage](https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_JNA2010-592980.002.png?keywords=2)
+```{r}
+knitr::include_graphics("https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_JNA2010-592980.002.png?keywords=2")
+```
 
 <footer class="source">Pilt: Structures of DNA duplexes showing the presence of lesions (in green) such as CPD (a), 6-4PP (b), and 6-4 Dewar dimer (c). [Molecular mechanisms of ultraviolet radiation-induced DNA damage and repair](https://openi.nlm.nih.gov/detailedresult.php?img=3010660_JNA2010-592980.002&req=4)
 </footer>
@@ -572,7 +619,9 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 
 ***=right
 
-![cpd](http://pubs.acs.org/cen/img/83/i02/8302scit1a.gif)
+```{r}
+knitr::include_graphics("http://pubs.acs.org/cen/img/83/i02/8302scit1a.gif")
+```
 
 <footer class="source">Pilt: [Light Shed On Photolyases](http://pubs.acs.org/cen/news/83/i01/8301earlysci1.html).
 Sunlight can dimerize neighboring thymidines in DNA (left) to give dangerous cyclobutane pyrimidine dimers (right). DNA photolyase repairs this damage.
@@ -586,7 +635,9 @@ Sunlight can dimerize neighboring thymidines in DNA (left) to give dangerous cyc
 - 6-4-fotoproduktid häirivad tugevalt DNA heeliksit
 - Moodustuvad TT (60%), CT (30%) ja CC (10%) dinukleotiidide vahele
 
-![6-4PP](http://www.pnas.org/content/96/12/6632/F4.large.jpg)
+```{r}
+knitr::include_graphics("http://www.pnas.org/content/96/12/6632/F4.large.jpg")
+```
 
 <footer class="source">Pilt: Solution structure of the (6–4)/GA duplex. (A) Superimposed stereo view of 10 intensity refined structures of the (6–4)/GA duplex. (B) Stick view of the central four base pairs of the (6–4)/GA duplex. The sugar and backbone atoms are magenta. Two thymine bases (T5, T6) of the (6–4) adduct are red, and their opposite G15 and A16 bases are yellow and green, respectively. The flanking base pairs are cyan. The hydrogen atoms are excluded. 
 Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6632.long).
@@ -595,7 +646,9 @@ Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6
 ---
 ## UV-kahjustatud alused parandatakse valeks
 
-![cpd](https://www.researchgate.net/publication/7984856/figure/fig1/AS:298970527092745@1448291536732/Fig-2-Mechanisms-of-UV-mutagenesis-at-a-cyclobutane-pyrimidine-dimer-CPD-The.png)
+```{r}
+knitr::include_graphics("https://www.researchgate.net/publication/7984856/figure/fig1/AS:298970527092745@1448291536732/Fig-2-Mechanisms-of-UV-mutagenesis-at-a-cyclobutane-pyrimidine-dimer-CPD-The.png")
+```
 
 
 <footer class="source">
@@ -608,7 +661,9 @@ DOI: 10.1016/j.mrfmmm.2004.06.057.
 ## Prokartsinogeen + CYP = ülikartsinogeen
 # DNA-d alküleerivad ühendid aktiveeritakse CYP-id poolt
 
-<img src="http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-f2.jpg" style="width:480px">
+```{r}
+knitr::include_graphics("http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-f2.jpg")
+```
 
 <footer class="source">
 Activation of aflatoxin B1 (AFB1), 2-acetylaminofluorene (AAF), and benzo[a]pyrene (BP) requires the activity of cytochrome-P450-dependent monooxygenases (CYPs). 1,2-Dichloroethane (DCE) is activated by glutathione S-transferases (GSTs) into glutathione (GSH) half-mustard and GSH episulphonium electrophiles, which can bind directly to DNA. GST-catalysed conjugation of trichloroethylene (TCE) produces GSH adducts. The red arrows point to the position of the nucleophile (DNA, protein, GSH) attack. GSH conjugates of AFB1 oxide or PAH diol-epoxides are detoxification products.
@@ -617,7 +672,9 @@ Activation of aflatoxin B1 (AFB1), 2-acetylaminofluorene (AAF), and benzo[a]pyre
 ---
 ## Benso(a)püreendiool epoksiid DNA kahjustus
 
-<img src="http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-i2.jpg" style="height:400px">
+```{r}
+knitr::include_graphics("http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-i2.jpg")
+```
 
 <footer class="source">
 Benzo[a]pyrene (BP) theoretically can be metabolized into four different 7,8-diol-9,10-epoxide stereoisomers (see figure). The (+)-anti-7R,8S-diol-9S,10R-epoxide of BP [(+)-anti-BPDE] is formed in great excess, both in vitro and in vivo, compared with the other three stereoisomers, the (+)-syn-, (-)-syn- and (-)-anti-BPDE. (+)-Anti-BPDE derives from further epoxidation of the R,R-dihydrodiol precursor, as shown in Fig. 2. Some small amounts of the (+)-syn-BPDE isomer are usually detectable as a result of further epoxidation of the S,S-dihydrodiol precursor (not shown). From all four possible stereoisomers, the (+)-anti-BPDE has the highest intrinsic genotoxic and carcinogenic potency. The major DNA adduct, the (+)-trans-anti-BPDE-N2-dG, derives from trans opening of the epoxide moiety. This adduct is more resistant to nucleotide excision repair than the cis-opened product, (+)-cis-anti-BPDE-N2-dG. Resistance to DNA repair and subsequent DNA replication across this 'bulky' DNA adduct — translesional synthesis (TLS) — can lead to the induction of Gright arrowT base pair transversions in cancer genes such as TP53 or KRAS.
@@ -636,7 +693,9 @@ Benzo[a]pyrene (BP) theoretically can be metabolized into four different 7,8-dio
 
 ***=right
 
-![C>A](http://ars.els-cdn.com/content/image/1-s2.0-S0092867412010227-fx1.jpg)
+```{r}
+knitr::include_graphics("http://ars.els-cdn.com/content/image/1-s2.0-S0092867412010227-fx1.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.sciencedirect.com/science/article/pii/S0092867412010227">
@@ -649,11 +708,15 @@ Genomic Landscape of Non-Small Cell Lung Cancer in Smokers and Never-Smokers.
 
 ***=left
 
-<img src="http://www.mygen.com/images/aflatoxin.jpg" style="width:360px">
+```{r}
+knitr::include_graphics("http://www.mygen.com/images/aflatoxin.jpg")
+```
 
 ***=right
 
-<img src="http://www.nature.com/nrc/journal/v3/n5/images/nrc1076-i1.gif" style="width:360px">
+```{r}
+knitr::include_graphics("http://www.nature.com/nrc/journal/v3/n5/images/nrc1076-i1.gif")
+```
 
 <footer class="source">Pilt: 
 Many chemicals, including aflatoxin, require metabolic activation to electrophilic intermediates to exert carcinogenic activity. These species can react with and modify DNA, leading to the formation of pro-mutagenic lesions that result in the activation of protooncogenes and the inactivation of tumour-suppressor genes. Aflatoxin B1 undergoes an initial two-electron oxidation by the cytochrome P450-family members CYP1A2 and CYP3A4, yielding aflatoxin-B1-8,9-oxide. This epoxide reacts with the N7 atom of guanine to form a pro-mutagenic DNA adduct (aflatoxin–N7-guanine). The aflatoxin–DNA adduct is unstable and undergoes depurination, leading to its urinary excretion (bottom).
@@ -668,11 +731,15 @@ Collectively, these end products of aflatoxin biotransformation are biomarkers o
 - HCA-d moodustuvad kui lihas leiduvad kreatiin ja aminohapped reageerivad kõrgel kuumusel (>200 C)
 
 ***=left
-<img src="http://www.precisionnutrition.com/wordpress/wp-content/uploads/2010/08/formation-of-HCA-with-heat.jpg" style="height:300px">
+```{r}
+knitr::include_graphics("http://www.precisionnutrition.com/wordpress/wp-content/uploads/2010/08/formation-of-HCA-with-heat.jpg")
+```
 
 ***=right
 
-![hca](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/images/photos/features/in_translation/3.jpg)
+```{r}
+knitr::include_graphics("https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/images/photos/features/in_translation/3.jpg")
+```
 
 <footer class="source">Pilt: Vasem: [HCA moodustumine](http://www.precisionnutrition.com/all-about-cooking-carcinogens). 
 Parem, [The boiling issue](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/features/in_translation.html).
@@ -706,7 +773,9 @@ Parem, [The boiling issue](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring
 
 ***=right
 
-<img src="http://www.cell.com/cms/attachment/2062208461/2063785139/fx1.jpg" style="width:400px">
+```{r}
+knitr::include_graphics("http://www.cell.com/cms/attachment/2062208461/2063785139/fx1.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.cell.com/molecular-cell/abstract/S1097-2765(15)00944-2">
@@ -717,7 +786,9 @@ Cell.
 ---
 # Replikatsioonikahvli arresteerumine kahjustatud aluste juures põhjustab genoomi ebastabiilsust
 
-![dämmits](http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg)
+```{r}
+knitr::include_graphics("http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg")
+```
 
 ---
 ## Kahjustustest DNA ahela läbisüntees (TLS)
@@ -744,7 +815,9 @@ Cell.
 ***=right
 - BER tähendab ühe nukleotiidi lämmastikaluse eemaldamist ja nukleotiidi asendamist.
 
-<img src="assets/img/BER.png">
+```{r}
+knitr::include_graphics("assets/img/BER.png")
+```
 
 --- &twocol
 ## Nukleotiide välja lõikav parandus (NER)
@@ -761,7 +834,9 @@ Cell.
 
 NER eemaldab DNA heeliksit rikkuvad modifikatsioonid.
 
-<img src="assets/img/NER.png">
+```{r}
+knitr::include_graphics("assets/img/NER.png")
+```
 
 ---
 ## Xeroderma pigmentosum
@@ -772,7 +847,9 @@ NER eemaldab DNA heeliksit rikkuvad modifikatsioonid.
 - XP geene on kokku 8, seitse neist siis NER funktsiooniga.
 - XP-V põhjustab TLS puudulikkus, mis on tingitud POLH mutatasioonidest.
 
-![xp](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg)
+```{r}
+knitr::include_graphics("http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg">
@@ -806,7 +883,9 @@ Wikimedia.
 ***=right
 
 - Poli-/-;Polh-/- topelt *knock-out* hiirtel tekib siiski natuke rohkem kasvajaid ja nad surevad rutem kui Polh-/- hiired.
-![polh](http://mcb.asm.org/content/26/20/7696/F4.medium.gif)
+```{r}
+knitr::include_graphics("http://mcb.asm.org/content/26/20/7696/F4.medium.gif")
+```
 
 <footer class="source">Pilt: 
 <a href="http://mcb.asm.org/content/26/20/7696.full">
@@ -827,7 +906,9 @@ UV-B Radiation Induces Epithelial Tumors in Mice Lacking DNA Polymerase η and M
 ***=right
 - Polb KO hiired surevad embrüonaalselt.
 - Polb+/- hiirtel on rohkem lümfoome, kuid elulemus oluliselt ei kannata.
-![polb](http://cancerres.aacrjournals.org/content/66/15/7460/F1.medium.gif)
+```{r}
+knitr::include_graphics("http://cancerres.aacrjournals.org/content/66/15/7460/F1.medium.gif")
+```
 
 <footer class="source">Pilt: 
 <a href="http://cancerres.aacrjournals.org/content/66/15/7460.long">
@@ -842,7 +923,9 @@ Haploinsufficiency in DNA Polymerase β Increases Cancer Risk.
 - Melanotsüüdid nahas sisaldavad melanosoome, mis kanduvad edasi keratinotsüütidesse.
 - Melanosoomid moodustavad keratinotsüütides supranukleaarseid mütsikesi.
 
-![parasols](http://ars.els-cdn.com/content/image/1-s2.0-S0022202X15304528-gr1.jpg)
+```{r}
+knitr::include_graphics("http://ars.els-cdn.com/content/image/1-s2.0-S0022202X15304528-gr1.jpg")
+```
 
 <footer class="source">Pilt: 
 <a href="http://ars.els-cdn.com/content/image/1-s2.0-S0022202X15304528-gr1.jpg">
@@ -862,7 +945,9 @@ Melano-phagolysosomes are organized into supranuclear "caps" within keratinocyte
 
 ***=left
 - Glutatiooni konjugeerimine takistab tsütotoksilistel ainetel reageerida raku makromolekulidega/märklaudadega. 
-<img src="http://www.nature.com/onc/journal/v22/n47/images/1206940f1.gif" style="width:400px">
+```{r}
+knitr::include_graphics("http://www.nature.com/onc/journal/v22/n47/images/1206940f1.gif")
+```
 
 <footer class="source">Pilt: 
 <a href="http://www.nature.com/onc/journal/v22/n47/full/1206940a.html">
