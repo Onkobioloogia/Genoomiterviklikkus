@@ -73,7 +73,6 @@ knitr::include_graphics("http://www.cell.com/cms/attachment/593400/4586019/gr1.j
 
 ---
 ## Epiteeli struktuur minimeerib geenikahjustusi
-
 Tüvirakkude genoom on hästi kaitstud
 
 .pull-left[
@@ -159,7 +158,6 @@ Asymmetric and symmetric stem-cell divisions in development and cancer.
 
 ---
 ## Tüviraku nišš ei jagune intensiivselt
-
 Somaatilised tüvirakud ei märgistu hästi DNA-sse lülituvate ühenditega, välja arvatud tekkimisel ja koe kahjustuste korral.
 
 - Somaatilised tüvirakud säilitavad oma tekkimisel DNA-sse lülitatud märgise (3H-tümidiin) väga pika-aegselt.
@@ -181,7 +179,7 @@ Smith, 2005.
 
 _**Label-retaining cells**_ eksperimentaalselt defineeritud rakupopulatsioon,  mis säilitavad DNA-sse lülitatud märgise (nt. BrdU) ja mis peaksid olema aeglaselt jagunevad tüvirakud.
 
-```{r}
+```{r, out.width='40%'}
 knitr::include_graphics("http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3050564/bin/nihms264176f2.jpg")
 ```
 
@@ -201,11 +199,11 @@ Krooniline koekahjustumine võib istutada mutantse DNA tüviraku nišši
 - Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
 - Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
 
-```{r}
+```{r, out.width='34%'}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png")
 ```
 
-.footer[Pilt: Benzo(a)pyrene. Wikipedia.
+.footer[Pilt: Benzo[a]pyrene. Wikipedia.
 ]
 
 ---
@@ -254,19 +252,21 @@ Zaman et al., 1994.
 
 ---
 ## P-glükovalgu struktuur
-*P-glycoprotein/MDR1*
 
+.pull-left[
+*P-glycoprotein/MDR1*
+- P-glükovalk (sinine) ja vähiteraapia.  
+- Kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) oleks võimalik blokeerida Pgp toimimine. 
+]
+
+.pull-right[
 ```{r}
 knitr::include_graphics("https://cdn.rcsb.org/pdb101/motm/images/3g61_1bln.jpg")
 ```
+]
 
-.footer[Pilt: 
-<a href="http://www.rcsb.org/pdb/101/motm.do?momID=123">
-P-glycoprotein (sinine) ja vähiteraapia.  
-</a> Kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) oleks võimalik blokeerida Pgp toimimine. Wikipedia: 
-<a href="http://en.wikipedia.org/wiki/P-glycoprotein">
-P-gp wiki.
-</a>
+.footer[
+Pilt: http://www.rcsb.org/pdb/101/motm.do?momID=123
 ]
 
 ???
@@ -308,7 +308,6 @@ Cancer cells in metastatic cancers are often particularly difficult to treat bec
 
 ---
 ## Asümmeetriline DNA jaotumine tütarrakkude vahel
-# Raku jagunemisel peegeldub tütarrakkude saatus ka nende DNA-s.
 
 .pull-left[
 
@@ -319,9 +318,11 @@ knitr::include_graphics("http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1852587/bin
 ]
 
 .pull-right[
+- Raku jagunemisel peegeldub tütarrakkude saatus ka nende DNA-s
 
-- Kui tüvirakud jagunevad, siis õdekromatiidid mis sisaldavad vanemat DNA ahelat (pildil roheliselt fluorestseeruv) segregeeruvad ühte tütarrakku.
-- Vanem DNA segregeerub tavaliselt vähem diferentseerunud tütarrakku.
+- Kui tüvirakud jagunevad, siis õdekromatiidid mis sisaldavad vanemat DNA ahelat (pildil roheliselt fluorestseeruv) segregeeruvad ühte tütarrakku
+
+- Vanem DNA segregeerub tavaliselt vähem diferentseerunud tütarrakku
 
 ]
 
@@ -333,9 +334,9 @@ Richard Robinson, 2007.
 
 ---
 ## Matriits DNA selektiivne segregatsioon
-Konserveerunud DNA ahel jääb tüviraku kompartementi
 
 .pull-left[
+- Konserveerunud DNA ahel jääb tüviraku kompartementi
 
 - DNA ahelad mida replikatsiooni käigus ei sünteesitud on nn. "konserveerunud" matriits ahelad
 
@@ -347,7 +348,7 @@ Konserveerunud DNA ahel jääb tüviraku kompartementi
 
 .pull-right[
 
-```{r}
+```{r, out.width='90%'}
 knitr::include_graphics("http://jcs.biologists.org/content/115/11/2381/F1.large.jpg")
 ```
 
@@ -398,12 +399,15 @@ class: inverse, middle, center
 ---
 ## Proofreading ja mismatch repair
 
-- Kui DNA Pol ($\alpha$, $\delta$, $\epsilon$) lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3'-5' eksonukleaasse aktiivsuse abil (**proofreading**)
-- Proofreading põhineb, sellel et polümeraas tunneb järgmise nukleotiidi lülitamisel ära "vales" asendis 3' OH rühma ja jääb kinni.
+- Kui DNA Pol $(\alpha$, $\delta$, $\epsilon)$ lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3'-5' eksonukleaasse aktiivsuse abil (**proofreading**)
+
+- Proofreading põhineb, sellel et polümeraas tunneb järgmise nukleotiidi lülitamisel ära "vales" asendis 3'-OH rühma ja jääb kinni.
+
 - Proofreadingu tasemel eemaldatakse 99% vigu, sellest läbi lipsanud vead parandab **mismatch repair** mehhanism.
+
 - Koos proofreadingu ja MMR mehhanismiga on totaalne vigade sagedus replikatsioonil $10^{-9}$.
 
-```{r}
+```{r, out.width='40%'}
 knitr::include_graphics("http://www.nature.com/ng/journal/v45/n2/images/ng.2540-F1.jpg")
 ```
 
@@ -421,14 +425,14 @@ Seshagiri, 2013.
 - Pold1 või Pole katalüütilise subühiku eksonukleaasse aktiivsuse mutantsetel hiirtel on 10 korda kõrgem mutatsioonisagedus ja neil tekivad spontaansed kasvajad.
 - $Pold1^{exo/exo}$ hiired surevad 8 kuu vanustena erinevate kasvajate tagajärjel.
 - $Pole^{exo/exo}$ surevad enneaegselt soole adenoomide ja adenokartsinoomide tõttu.
-- $Pole^{exo/exo}$;$Pold1^{exo/exo}$ kaksik-mutantsed hiired surevad veelgi kiiremini tüümuse lümfoomide kätte.
+- $Pole^{exo/exo}; Pold1^{exo/exo}$ kaksik-mutantsed hiired surevad veelgi kiiremini tüümuse lümfoomide kätte.
 - Mlh1 (*MutL homologue*) - MMR valk
 
 ]
 
 .pull-right[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("http://www.pnas.org/content/106/40/17101/F1.medium.gif")
 ```
 
@@ -456,12 +460,12 @@ Albertson et al., 2009.
 **Pärmi *S. pombe* mudelis tõstis inimese POLD1 S478N mutatsiooni analoog tugevalt mutatsioonisagedust**.
 
 ```{r}
-tab <- readr::read_delim("Muutus |  Mutatsiooni-<br> sagedus ($\times10^{9}$)| Tõus<br>	(mutant/wild type)
+tab <- readr::read_delim("Muutus |  Mutatsioonisagedus $\\times10^{9}$ | Tõus (mutant/wild type)
 C462N | 72 | 12
 C462S	| 4.2	| 0.7
 Wild type	| 6.0	| 1", delim = "|")
 tab <- knitr::kable(tab, format = 'html')
-kableExtra::kable_styling(tab, "striped", position = "left", font_size = 14)
+kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
 ```
 
 ]
@@ -484,7 +488,7 @@ Germline mutations affecting the proofreading domains of POLE and POLD1 predispo
 
 .pull-right[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("http://www.nature.com/scitable/content/ne0000/ne0000/ne0000/ne0000/116896155/6460_82.jpg")
 ```
 
@@ -529,10 +533,11 @@ Exclusion of Breast Cancer as an Integral Tumor of Hereditary Nonpolyposis Color
 
 .pull-left[
 
-- MMR on kahjustust välja lõikav protsess, kus mittepaarduvad nukleotiidid lõigatakse ahelast välja.
-- MMR on seotud DNA replikatsiooniga, MMR valgud interakteeruvad PCNA-ga.
-- Mittepaardumine põhjustab DNA paindumise/mügara (*bulge*) mis viib MMR valkude värbamiseni ja need lõikavad välja DNA segmendi kahjustusest lähima üheahelalise katkestuseni (*nick*) ja DNA pol$\delta$ sünteesib jäänud tühimiku täis.
+- MMR on kahjustust välja lõikav protsess, kus mittepaarduvad nukleotiidid lõigatakse ahelast välja
 
+- MMR on seotud DNA replikatsiooniga, MMR valgud interakteeruvad PCNA-ga
+
+- Mittepaardumine põhjustab DNA paindumise/mügara (*bulge*) mis viib MMR valkude värbamiseni ja need lõikavad välja DNA segmendi kahjustusest lähima üheahelalise katkestuseni (*nick*) ja DNA pol $\delta$ sünteesib jäänud tühimiku täis
 
 ]
 
@@ -547,8 +552,9 @@ knitr::include_graphics("figures/MMR.png")
 ---
 ## DNA-d kahjustavad endogeensed biokeemilised protsessid
 
-- Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis ($~10^{-7}M$) vesinik ja hüdroksüül ioone, 
-- mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**.
+- Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis $~10^{-7}M$ vesinik ja hüdroksüül ioone, 
+
+- mis reageerivad DNA-ga ja põhjustavad nukleotiidide **depurineerumist** või **depürimideerumist** ja **deamineerumist**
 
 ---
 ## Depurinatsioon
@@ -565,11 +571,11 @@ knitr::include_graphics("http://o.quizlet.com/0Zsi0iTSRfx1g7hVmFp.xQ.jpg")
 ---
 ## Deaminatsioon
 
-- **Deaminatsiooni** tõttu kaotavad tsütosiin, adeniin või guaniin oma amiinrühma.
+- **Deaminatsiooni** tõttu kaotavad tsütosiin, adeniin või guaniin oma amiinrühma
 
 .pull-left[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("figures/Deamination of Bases.JPG")
 ```
 
@@ -618,7 +624,7 @@ Oxidative damage to DNA: Relation to species metabolic rate and life span.
 - tsüklobutaan pürimidiin dimeerid (CPD) 
 - Pürimidiin 6-4 pürimidoon fotoprodukt (6-4PP)
 
-```{r}
+```{r, out.width='60%'}
 knitr::include_graphics("https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_JNA2010-592980.002.png?keywords=2")
 ```
 
@@ -639,7 +645,7 @@ knitr::include_graphics("https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_
 
 .pull-right[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("http://pubs.acs.org/cen/img/83/i02/8302scit1a.gif")
 ```
 
@@ -657,27 +663,13 @@ Sunlight can dimerize neighboring thymidines in DNA (left) to give dangerous cyc
 - 6-4-fotoproduktid häirivad tugevalt DNA heeliksit
 - Moodustuvad TT (60%), CT (30%) ja CC (10%) dinukleotiidide vahele
 
-```{r}
+```{r, out.width='50%'}
 knitr::include_graphics("http://www.pnas.org/content/96/12/6632/F4.large.jpg")
 ```
 
 .footer[Pilt: Solution structure of the (6–4)/GA duplex. (A) Superimposed stereo view of 10 intensity refined structures of the (6–4)/GA duplex. (B) Stick view of the central four base pairs of the (6–4)/GA duplex. The sugar and backbone atoms are magenta. Two thymine bases (T5, T6) of the (6–4) adduct are red, and their opposite G15 and A16 bases are yellow and green, respectively. The flanking base pairs are cyan. The hydrogen atoms are excluded. 
 Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6632.long).
 ]
-
----
-## UV-kahjustatud alused parandatakse valeks
-
-```{r}
-knitr::include_graphics("https://www.researchgate.net/publication/7984856/figure/fig1/AS:298970527092745@1448291536732/Fig-2-Mechanisms-of-UV-mutagenesis-at-a-cyclobutane-pyrimidine-dimer-CPD-The.png")
-```
-
-
-.footer[
-Article in Mutation Research/Fundamental and Molecular Mechanisms of Mutagenesis 571(1-2):19-31 · May 2005
-DOI: 10.1016/j.mrfmmm.2004.06.057.
-]
-
 
 ---
 ## Prokartsinogeen + CYP = ülikartsinogeen
