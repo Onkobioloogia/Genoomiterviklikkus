@@ -672,10 +672,10 @@ Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6
 ]
 
 ---
-## Prokartsinogeen + CYP = ülikartsinogeen
-DNA-d alküleerivad ühendid aktiveeritakse CYP-id poolt
+### Prokartsinogeen + CYP = ülikartsinogeen
+- DNA-d alküleerivad ühendid aktiveeritakse CYP-id poolt
 
-```{r}
+```{r, out.width='50%'}
 knitr::include_graphics("http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-f2.jpg")
 ```
 
@@ -686,7 +686,7 @@ Activation of aflatoxin B1 (AFB1), 2-acetylaminofluorene (AAF), and benzo[a]pyre
 ---
 ## Benso(a)püreendiool epoksiid DNA kahjustus
 
-```{r}
+```{r, out.width='50%'}
 knitr::include_graphics("http://www.nature.com/nrc/journal/v5/n2/images/nrc1546-i2.jpg")
 ```
 
@@ -726,7 +726,7 @@ Genomic Landscape of Non-Small Cell Lung Cancer in Smokers and Never-Smokers.
 
 .pull-left[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("http://www.mygen.com/images/aflatoxin.jpg")
 ```
 
@@ -734,23 +734,27 @@ knitr::include_graphics("http://www.mygen.com/images/aflatoxin.jpg")
 
 .pull-right[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("http://www.nature.com/nrc/journal/v3/n5/images/nrc1076-i1.gif")
 ```
 
 ]
 
 .footer[Pilt: 
-Many chemicals, including aflatoxin, require metabolic activation to electrophilic intermediates to exert carcinogenic activity. These species can react with and modify DNA, leading to the formation of pro-mutagenic lesions that result in the activation of protooncogenes and the inactivation of tumour-suppressor genes. Aflatoxin B1 undergoes an initial two-electron oxidation by the cytochrome P450-family members CYP1A2 and CYP3A4, yielding aflatoxin-B1-8,9-oxide. This epoxide reacts with the N7 atom of guanine to form a pro-mutagenic DNA adduct (aflatoxin–N7-guanine). The aflatoxin–DNA adduct is unstable and undergoes depurination, leading to its urinary excretion (bottom).
+Many chemicals, including aflatoxin, require metabolic activation to electrophilic intermediates to exert carcinogenic activity. These species can react with and modify DNA, leading to the formation of pro-mutagenic lesions that result in the activation of protooncogenes and the inactivation of tumour-suppressor genes. 
+]
+
+???
+
+Aflatoxin B1 undergoes an initial two-electron oxidation by the cytochrome P450-family members CYP1A2 and CYP3A4, yielding aflatoxin-B1-8,9-oxide. This epoxide reacts with the N7 atom of guanine to form a pro-mutagenic DNA adduct (aflatoxin–N7-guanine). The aflatoxin–DNA adduct is unstable and undergoes depurination, leading to its urinary excretion (bottom).
 Aflatoxin-B1-8,9-oxide is also a substrate for several isoforms of human glutathione S-transferases (GSTs), which yield a stable, non-toxic, polar product that is excreted in the bile. The aflatoxin–glutathione product also undergoes sequential metabolism in the liver and kidneys to be excreted as a mercapturic acid (aflatoxin–N-acetylcysteine) in the urine.
 Aflatoxin B1 also undergoes extensive oxidation, which is catalysed by cytochrome P450s. In addition to formation of the 8,9-oxide, oxidation by CYP1A2 yields a stable urinary metabolite, aflatoxin M1, that is excreted in milk (top). Aflatoxin M1 is less carcinogenic or mutagenic than aflatoxin B1, but is equally toxic. The oxidation products of aflatoxin can be excreted without further biotransformation or can be conjugated by UDP-glucuronosyl transferases44, 53.
 Collectively, these end products of aflatoxin biotransformation are biomarkers of exposure to aflatoxin and risk of hepatocellular carcinoma.
-]
 
 ---
 ## Heterotsüklilised amiinid
 
-- HCA-d moodustuvad kui lihas leiduvad kreatiin ja aminohapped reageerivad kõrgel kuumusel (>200 C)
+- HCA-d moodustuvad kui lihas leiduvad kreatiin ja aminohapped reageerivad kõrgel kuumusel $(>200^\circ C)$
 
 .pull-left[
 ```{r}
@@ -761,7 +765,7 @@ knitr::include_graphics("http://www.precisionnutrition.com/wordpress/wp-content/
 
 .pull-right[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/images/photos/features/in_translation/3.jpg")
 ```
 
@@ -773,21 +777,24 @@ Parem, [The boiling issue](https://www.ucdmc.ucdavis.edu/synthesis/issues/spring
 
 
 ---
-class: invrse, middle, center
+class: inverse, middle, center
 
-# DNA reparatsiooni ja kahjustuste tolereerimismehhanismid
+# DNA reparatsiooni ja kahjustuste tolereerimise mehhanismid
 
 ---
 ## Reparatsioonimehhanismid
 
-- Lämmastikalust välja lõikav parandus (*base excision repair*, *BER*),
-- Nukleotiide välja lõikav parandus (*nucleotide excision repair*, *NER*).
-- DNA katkestusi ja lünkasid (*gap*) parandatakse homoloogse rekombinatsiooni (*HR*) ja mittehomoloogse otste ühendamise teel (*NHEJ*).
+- Lämmastikalust välja lõikav parandus (*base excision repair*, *BER*)
+
+- Nukleotiide välja lõikav parandus (*nucleotide excision repair*, *NER*)
+
+- DNA katkestusi ja lünkasid (*gap*) parandatakse homoloogse rekombinatsiooni (*HR*) ja mittehomoloogse otste ühendamise teel (*NHEJ*)
 
 ---
 ## Tolereerimismehhanismid
 
 - Kahjustustest DNA läbisüntees (*translesion DNA synthesis*)
+
 - Maatrikshela vahetus (*template switching*)
 
 ---
@@ -795,15 +802,17 @@ class: invrse, middle, center
 
 .pull-left[
 
-- Vähirakkudes tekib DSB (*double strand break*)-le tugev vastus, mis põhjustab reparatsioonivalkude akumuleerumise kromatiinile.
-- Reparatsiooniensüümide ekspressiooni reguleerivad onkogeenid, pidev replikatsioonikahvlite initsatsioon ja põrkumine.
+- Vähirakkudes tekib DSB (*double strand break*)-le tugev vastus, mis põhjustab reparatsioonivalkude akumuleerumise kromatiinile
+
+- Reparatsiooniensüümide ekspressiooni reguleerivad onkogeenid, pidev replikatsioonikahvlite initsatsioon ja põrkumine
+
 - Replikatsioonikahvlite toppamine tõstab DSB riski ja tagajärjeks on katkestuste kasv.
 
 ]
 
 .pull-right[
 
-```{r}
+```{r, out.width='100%'}
 knitr::include_graphics("http://www.cell.com/cms/attachment/2062208461/2063785139/fx1.jpg")
 ```
 
@@ -816,33 +825,42 @@ Cell.
 ]
 
 ---
-# Replikatsioonikahvli arresteerumine kahjustatud aluste juures põhjustab genoomi ebastabiilsust
+### Replikatsioonikahvli arresteerumine kahjustatud aluste juures põhjustab genoomi ebastabiilsust
 
-```{r}
+```{r, out.width='60%'}
 knitr::include_graphics("http://www.nature.com/nrc/journal/v11/n2/images/nrc2998-f1.jpg")
 ```
 
 ---
 ## Kahjustustest DNA ahela läbisüntees (TLS)
 
-- Kui DNA kahjustus jääb parandamata põhjustab see replikatsioonikahvli toppama jäämise.
-- Seiskunud kahvel kollapseerub ja põhjustab DSB, mis võib viia genoomi ebastabiilsuseni.
-- **Rakud tolereerivad replikatsioonil ettejäävaid kahjustusi neist läbi sünteesides**.
-- Replikatiivsed _proofreadingu_ aktiivsusega DNA polümeraasid Pol $\alpha$, $\delta$, $\epsilon$ ei suuda kahjustustest läbi sünteesida.
+- Kui DNA kahjustus jääb parandamata põhjustab see replikatsioonikahvli toppama jäämise
+
+- Seiskunud kahvel kollapseerub ja põhjustab DSB, mis võib viia genoomi ebastabiilsuseni
+
+- **Rakud tolereerivad replikatsioonil ettejäävaid kahjustusi neist läbi sünteesides**
+
+- Replikatiivsed _proofreadingu_ aktiivsusega DNA polümeraasid Pol $\alpha$, $\delta$, $\epsilon$ ei suuda kahjustustest läbi sünteesida
+
 - Imetajarakus 7 DNA polümeraasi millel on TLS võime.
-    - POLH, POLI (Pol-$\iota$), POLK, REV, Pol-$\zeta$, POLQ ja POLN.
-- **Ühelgi TLS Pol-idest pole eksonukleasset _proofreadingu_ aktiivsust**.
+    - POLH, POLI Pol- $\iota$, POLK, REV, Pol- $\zeta$ , POLQ ja POLN
+
+- **Ühelgi TLS Pol-idest pole eksonukleasset _proofreadingu_ aktiivsust**
 
 ---
 ## Lämmastikalust välja lõikav reparatsioon (BER)
 
 .pull-left[
 
-- Substraadiks on uratsiiljäägid, ROS-kahjustatud alused, hüdrolüütilised reaktsiooniproduktid ja metülatsioonid.
-- Kahjustatud lämmastikaluse eemaldab aluse spetsiifliline **DNA glükosülaas** (nt. UNG).
-- Tekkinud lämmastikaluseta koha eemaldab **AP endonukleaas** (AP, *apyrimidinic* või *apurimidinic*; APEX1).
-- 5'-deoksüriboosfosfaadi (dRP) lõikab välja **dRP lüaas** (POLB ühe domääni aktiivsus).
-- Järele jäänud 1 nukleotiidse augu sünteesib täis **POLB** (Pol $\beta$).
+- Substraadiks on uratsiiljäägid, ROS-kahjustatud alused, hüdrolüütilised reaktsiooniproduktid ja metülatsioonid
+
+- Kahjustatud lämmastikaluse eemaldab aluse spetsiifliline **DNA glükosülaas** (nt. UNG)
+
+- Tekkinud lämmastikaluseta koha eemaldab **AP endonukleaas** (AP, *apyrimidinic* või *apurimidinic*; APEX1)
+
+- 5'-deoksüriboosfosfaadi (dRP) lõikab välja **dRP lüaas** (POLB ühe domääni aktiivsus)
+
+- Järele jäänud 1 nukleotiidse augu sünteesib täis **POLB** (Pol $\beta$)
 
 ]
 
@@ -881,15 +899,19 @@ knitr::include_graphics("figures/NER.png")
 ---
 ## Xeroderma pigmentosum
 
+.pull-left[
 - Autosomaalne retsessiivne sündroom mida põdevaid inimesi iseloomustab äärmine fototundlikkus (intsidents 1:250000).
 - Kõrge nahavähi risk ja neuroloogilised defektid.
 - XP on põhjustatud inaktiveerivatest mutatsioonidest NER geenides.
 - XP geene on kokku 8, seitse neist siis NER funktsiooniga.
 - XP-V põhjustab TLS puudulikkus, mis on tingitud POLH mutatasioonidest.
+]
 
-```{r}
+.pull-right[
+```{r, out.width='100%'}
 knitr::include_graphics("http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg")
 ```
+]
 
 .footer[Pilt: 
 <a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Xeroderma_pigmentosum_02.jpg/230px-Xeroderma_pigmentosum_02.jpg">
@@ -899,15 +921,22 @@ Wikimedia.
 
 ---
 ## XP, bypass (TLS) polümeraas ja vähk
-XP-V põhjustavad mutatsioonid TLS DNA polümeraasis POLH (Pol-$\eta$).
 
-- POLH vahendab tolerantsust UV-kiirguse poolt tekitatud TT-CPD-le.
-- POLH inserteerib korrektselt AA nukleotiidid TT-CPD vastu.
-- XP-V mutatsioonid rikuvad POLH interaktsioonid TT-CPD-ga.
-- Polh-/- hiirtel tekivad UV-indutseeritud nahakasvajad.
-- UV põhjustab Polh-/- hiirtel DNA kaheahelalisi katkestusi.
-- XP-V patsientidel tekivad lamerakulised nahakartsinoomid, kui spontaansetest nahavähkidest POLH geeni mutatsioone leitud ei ole.
-- Kopsu ja maokasvajates on POLH ekspressioon vähenenud.
+- XP-V põhjustavad mutatsioonid TLS DNA polümeraasis POLH (Pol- $\eta$ )
+
+- POLH vahendab tolerantsust UV-kiirguse poolt tekitatud TT-CPD-le
+
+- POLH inserteerib korrektselt AA nukleotiidid TT-CPD vastu
+
+- XP-V mutatsioonid rikuvad POLH interaktsioonid TT-CPD-ga
+
+- Polh-/- hiirtel tekivad UV-indutseeritud nahakasvajad
+
+- UV põhjustab Polh-/- hiirtel DNA kaheahelalisi katkestusi
+
+- XP-V patsientidel tekivad lamerakulised nahakartsinoomid, kui spontaansetest nahavähkidest POLH geeni mutatsioone leitud ei ole
+
+- Kopsu ja maokasvajates on POLH ekspressioon vähenenud
 
 ---
 ## 6-4 PP TLS
@@ -1039,4 +1068,8 @@ class: inverse, middle
 - [Vähiravimid](http://tpall.github.io/Vahiravim)
 
 ]
+
+[Onkobioloogia loengu veebileht](https://onkobioloogia.credibleinterval.ee)
+
+GitHub: [tpall/Genoomiterviklikkus](https://github.com/tpall/Genoomiterviklikkus)
 
