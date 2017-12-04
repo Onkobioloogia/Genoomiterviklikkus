@@ -790,9 +790,11 @@ Collectively, these end products of aflatoxin biotransformation are biomarkers o
 ## Heterotsüklilised amiinid
 
 - HCA-d moodustuvad kui lihas leiduvad kreatiin ja aminohapped reageerivad kõrgel kuumusel $(>200^\circ C)$
+- PhIP (2-Amino-1-methyl-6-phenylimidazo[4,5-b]pyridine) on kõige sagedasem HCA
+
 
 .pull-left[
-```{r}
+```{r, out.width='60%'}
 knitr::include_graphics("http://www.precisionnutrition.com/wordpress/wp-content/uploads/2010/08/formation-of-HCA-with-heat.jpg")
 ```
 
@@ -800,7 +802,7 @@ knitr::include_graphics("http://www.precisionnutrition.com/wordpress/wp-content/
 
 .pull-right[
 
-```{r, out.width='100%'}
+```{r, out.width='90%'}
 knitr::include_graphics("https://www.ucdmc.ucdavis.edu/synthesis/issues/spring_07/images/photos/features/in_translation/3.jpg")
 ```
 
