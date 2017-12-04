@@ -216,7 +216,7 @@ Krooniline koekahjustumine võib istutada mutantse DNA tüviraku nišši
 - Tüviraku sümmeetriline jagunemine võib põhjustada viimases S-faasis sünteesitud mutantse DNA jäämise tüviraku nišši.
 - Selline mutantne DNA omandab siis nn "surematu" staatuse.
 - Alkohol, mis toimib tuumori promootorina, põhjustab just sellist tüüpi kahjustusi suuõõne epiteelile.
-- Super kartsinogeen oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
+- **Superkartsinogeen** oleks sellisel juhul aine mis on üheaegselt tsütotoksiline ja mutageenne (benzo[a]püreen).
 
 ```{r, out.width='34%'}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Benzo%28a%29pyrene-3D-balls-2.png/1280px-Benzo%28a%29pyrene-3D-balls-2.png")
