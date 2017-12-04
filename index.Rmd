@@ -277,8 +277,9 @@ Zaman et al., 1994.
 
 .pull-left[
 *P-glycoprotein/MDR1*
-- P-glükovalk (sinine) ja vähiteraapia.  
-- Kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) oleks võimalik blokeerida Pgp toimimine. 
+- P-glükovalk (sinine) ja vähiteraapia
+
+- Kasutades Pgp vastaseid Fab fragmente (kollane ja punane), mis seostuvad Pgp-le (roheline) oleks võimalik blokeerida Pgp toimimine
 ]
 
 .pull-right[
