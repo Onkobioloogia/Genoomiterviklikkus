@@ -424,11 +424,11 @@ class: inverse, middle, center
 
 - Kui DNA Pol $(\alpha$, $\delta$, $\epsilon)$ lülitab vale nukleotiidi ahelasse, korrigeerib ta selle kohe oma 3'-5' eksonukleaasse aktiivsuse abil (**proofreading**)
 
-- Proofreading põhineb, sellel et polümeraas tunneb järgmise nukleotiidi lülitamisel ära "vales" asendis 3'-OH rühma ja jääb kinni.
+- Proofreading põhineb, sellel et polümeraas tunneb järgmise nukleotiidi lülitamisel ära "vales" asendis 3'-OH rühma ja jääb kinni
 
-- Proofreadingu tasemel eemaldatakse 99% vigu, sellest läbi lipsanud vead parandab **mismatch repair** mehhanism.
+- Proofreadingu tasemel eemaldatakse 99% vigu, sellest läbi lipsanud vead parandab omakorda 99% juhtudest **mismatch repair** mehhanism
 
-- Koos proofreadingu ja MMR mehhanismiga on totaalne vigade sagedus replikatsioonil $10^{-9}$.
+- Koos proofreadingu $(10^{-2})$ ja MMR $(10^{-2})$ mehhanismiga on totaalne vigade sagedus replikatsioonil $10^{-9}$
 
 ```{r, out.width='40%'}
 knitr::include_graphics("http://www.nature.com/ng/journal/v45/n2/images/ng.2540-F1.jpg")
