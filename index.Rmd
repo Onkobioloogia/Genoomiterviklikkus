@@ -445,10 +445,10 @@ Seshagiri, 2013.
 
 .pull-left[
 
-- Pold1 või Pole katalüütilise subühiku eksonukleaasse aktiivsuse mutantsetel hiirtel on 10 korda kõrgem mutatsioonisagedus ja neil tekivad spontaansed kasvajad.
-- $Pold1^{exo/exo}$ hiired surevad 8 kuu vanustena erinevate kasvajate tagajärjel.
-- $Pole^{exo/exo}$ surevad enneaegselt soole adenoomide ja adenokartsinoomide tõttu.
-- $Pole^{exo/exo}; Pold1^{exo/exo}$ kaksik-mutantsed hiired surevad veelgi kiiremini tüümuse lümfoomide kätte.
+- Pold1 või Pole katalüütilise subühiku eksonukleaasse aktiivsuse mutantsetel hiirtel on 10 korda kõrgem mutatsioonisagedus ja neil tekivad spontaansed kasvajad
+- $Pold1^{exo/exo}$ hiired surevad 8 kuu vanustena erinevate kasvajate tagajärjel
+- $Pole^{exo/exo}$ surevad enneaegselt soole adenoomide ja adenokartsinoomide tõttu
+- $Pole^{exo/exo}; Pold1^{exo/exo}$ kaksik-mutantsed hiired surevad veelgi kiiremini tüümuse lümfoomide kätte
 - Mlh1 (*MutL homologue*) - MMR valk
 
 ]
