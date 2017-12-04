@@ -630,6 +630,8 @@ DNA base products of interaction with reactive oxygen and free radical species.
 ---
 ## DNA oksüdatsioon on seotud aeroobse metabolismiga
 
+- Thymidine glycol is a biologically active oxidative lesion in DNA and affects biochemical processing of DNA
+
 ```{r}
 knitr::include_graphics("figures/oxidation.png")
 ```
