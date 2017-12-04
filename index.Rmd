@@ -573,6 +573,11 @@ knitr::include_graphics("figures/MMR.png")
 ]
 
 ---
+class:inverse, middle, center
+
+# DNA kahjustused
+
+---
 ## DNA-d kahjustavad endogeensed biokeemilised protsessid
 
 - Normaalses raku keskkonnas neutraalsel pH-l esineb madalas kontsentratsioonis $~10^{-7}M$ vesinik- ja hüdroksüülioone, 
