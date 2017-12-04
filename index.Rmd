@@ -48,6 +48,7 @@ class: inverse, middle, center
 ## Krooniline müeloidne leukeemia (KML, CML)
 
 - Vähimutatsioon on tekkinud pluripotentses tüvirakus
+
 - CML-i BRC-ABL t(9;22)(q34;q11) translokatsioon ehk __*Philadelphia* kromosoom__ on olemas kõigis lümfoid ja müeloid raja rakkudes
 
 ```{r}
@@ -70,13 +71,6 @@ knitr::include_graphics("http://www.cell.com/cms/attachment/593400/4586019/gr1.j
 - Epiteelkoe rakud diferentseeruvad transitoorselt paljunevatest rakkudest
 
 - Käärsoole epiteeli eluiga on 5-7 päeva kui nad surevad
-
----
-## Regeneratsioon teistes kudedes
-
-- Naha keratinotsüüdid surevad 20-30 päeva jooksul
-
-- Erütrotsüütide eluiga on ~120 päeva, mille järel nad põrnas endotsüteeritakse
 
 ---
 ## Epiteeli struktuur minimeerib geenikahjustusi
@@ -141,6 +135,13 @@ Colorectal Cancer in Mice Genetically Deficient in the Mucin Muc2.
 Van der Sluis et al., 2006.
 </a> 
 ]
+
+---
+## Regeneratsioon teistes kudedes
+
+- Naha keratinotsüüdid surevad 20-30 päeva jooksul
+
+- Erütrotsüütide eluiga on ~120 päeva, mille järel nad põrnas endotsüteeritakse
 
 ---
 ## Tüvirakkude strateegiad
