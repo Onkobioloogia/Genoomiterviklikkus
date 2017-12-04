@@ -670,7 +670,7 @@ knitr::include_graphics("https://openi.nlm.nih.gov/imgs/512/353/3010660/3010660_
 
 .pull-right[
 
-```{r, out.width='100%'}
+```{r, out.width='110%'}
 knitr::include_graphics("http://pubs.acs.org/cen/img/83/i02/8302scit1a.gif")
 ```
 
@@ -684,16 +684,18 @@ Sunlight can dimerize neighboring thymidines in DNA (left) to give dangerous cyc
 ## Pürimidiin(6-4)pürimidoon fotoprodukt
 
 - Sageduselt teine UV kahjustus (24%)
+
 - Moodustub kovalentne side 5' pürimidiini C6 positsiooni ja 3' kõrvalasuva pürimidiinaluse C4 positsiooni vahel
+
 - 6-4-fotoproduktid häirivad tugevalt DNA heeliksit
+
 - Moodustuvad TT (60%), CT (30%) ja CC (10%) dinukleotiidide vahele
 
-```{r, out.width='50%'}
-knitr::include_graphics("http://www.pnas.org/content/96/12/6632/F4.large.jpg")
+```{r}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/1/13/Thymine_photodimer.svg")
 ```
 
-.footer[Pilt: Solution structure of the (6–4)/GA duplex. (A) Superimposed stereo view of 10 intensity refined structures of the (6–4)/GA duplex. (B) Stick view of the central four base pairs of the (6–4)/GA duplex. The sugar and backbone atoms are magenta. Two thymine bases (T5, T6) of the (6–4) adduct are red, and their opposite G15 and A16 bases are yellow and green, respectively. The flanking base pairs are cyan. The hydrogen atoms are excluded. 
-Joon-Hwa Lee et al. PNAS 1999;96:[6632-6636](http://www.pnas.org/content/96/12/6632.long).
+.footer[Pilt: Examples of thymine photodimers: 6,4-photoproduct (left) and cyclobutane. Wikipedia.
 ]
 
 ---
